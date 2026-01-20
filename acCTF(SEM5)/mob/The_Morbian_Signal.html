@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>The Morbian Code</title>
+  <style>
+    body{font-family:Inter,system-ui,Segoe UI,Roboto,"Helvetica Neue",Arial;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;background:linear-gradient(135deg,#0f172a,#001219);color:#e6eef8}
+    .card{background:rgba(255,255,255,0.03);padding:36px;border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,0.6);max-width:740px;text-align:center}
+    h1{margin:0 0 12px;font-size:30px;text-transform:uppercase;letter-spacing:1px}
+    p{margin:0 0 14px;opacity:0.95;line-height:1.5}
+    .hint{font-size:13px;opacity:0.95;margin-top:12px;text-align:left}
+    ul{text-align:left;margin:8px 0 0 18px;line-height:1.5}
+    .footer{margin-top:20px;font-size:12px;opacity:0.8}
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>The Morbian Code</h1>
+    <p>Welcome, challenger. Intelligence reports suggest a message was hidden deep within this page. Only those familiar with classical encryption will be able to decipher it.</p>
+    <p>Your mission: find the secret numeric data in the source, use the hidden key to reconstruct the mapping tables, and recover the plaintext flag.</p>
+
+    <div class="hint">
+      <strong>Advanced field briefing (technical clues):</strong>
+      <ul>
+        <li>The hidden data is a stream of digits ranging only from <strong>1</strong> to <strong>9</strong> - no zeros, letters, or symbols.</li>
+        <li>Before mapping, split the digit stream into <em>pairs</em> (two digits per block). Each pair corresponds to a unit of Morse characters.</li>
+        <li>Morse in this context is fractionated into <strong>bigrams</strong> (two-character Morse groups). The nine bigrams used are: <code>.. .- ./ -. -- -/ /. /- //</code> - treat these as an ordered table indexed 1→9.</li>
+        <li>The provided key is used to permute that numeric index: sort the key's letters alphabetically and assign the numbers 1-9 to the letters in that order, then read those numbers back under the original key order to form the mixed index.</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <!--
+    CLASSIFIED DATA BELOW - HANDLE WITH CARE
+
+    CIPHERTEXT: 1589989981612324513513126626123355651845916965455335918139935359165659659
+    KEY: OBLIVIOUS
+
+  -->
+
+</body>
+</html>

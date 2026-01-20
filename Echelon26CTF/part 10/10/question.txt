@@ -1,0 +1,5 @@
+Network captures show a series of approvals attributed to Arjun Rampal.
+Every approval appears as a valid HTTP 200 OK response from the server at 10.0.0.10:80 to a client at 10.0.0.5.
+However, inspection reveals that no HTTP requests containing authorization data exist at all.
+The only meaningful identifier is found in the response header X-Approved-For, which always contains the same name.
+If approvals exist without requests, the question is not what was approved, but who actually acted.

@@ -1,0 +1,12 @@
+=== PRIVATE SOLUTION ===
+
+Flag: flag{bhram_hi_vastav}
+Password: maya_never_lies
+
+CRC32 values:
+flagparts\flag01.zip : 0xd1f4eb9a
+flagparts\flag02.zip : 0xc5061670
+flagparts\flag03.zip : 0x9c9bbff8
+flagparts\flag04.zip : 0x435a81a6
+flagparts\flag05.zip : 0xceb69e0d
+flagparts\flag06.zip : 0xfcb6e20c

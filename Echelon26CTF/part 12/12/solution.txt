@@ -1,0 +1,13 @@
+=== HARD 3 — GHOST IDENTITY (ORGANIZER) ===
+
+Flag:
+There really was no Arjun Rampal. He was used as a scapegoat. You are slowly breaking the Maya. flag{maya_unreveal}
+
+Key observations:
+- DNS TXT records leak flag fragments
+- Session ID ties DNS and HTTP together
+- TLS certificate expired in 2014
+- Authentication occurs after expiry
+
+Conclusion:
+The identity was reused long after the person ceased to exist.

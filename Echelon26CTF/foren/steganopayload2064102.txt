@@ -1,0 +1,12 @@
+You have successfully decrypted the second half of the flag.
+This confirms your progress—but do not celebrate yet.
+
+⚠️ Decoy Flag (Invalid):
+Flag{_png_forensics}
+
+This flag is intentionally misleading and will not be accepted.
+
+To obtain the real flag, merge this decrypted fragment with the previous
+valid flag segment you discovered earlier.
+Only when both halves are combined in the correct order and format will the
+final flag be revealed.

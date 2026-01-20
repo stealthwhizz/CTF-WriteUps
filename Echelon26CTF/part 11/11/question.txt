@@ -1,0 +1,5 @@
+The next capture contains traffic between 10.0.0.20 and 10.0.0.30 over port 443, but no readable payload data exists anywhere.
+Packets are exchanged continuously, using only TCP ACKs, yet decisions appear to be finalized.
+Closer inspection shows that the time gap between packets is consistent and intentional, clustering around two values: ~0.05 seconds and ~0.20 seconds.
+There are no other recurring patterns in size, flags, or content.
+If no one is speaking, then agreement must be happening through timing alone.

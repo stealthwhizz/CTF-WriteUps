@@ -1,0 +1,7 @@
+Following Protocol
+a = SSH + DNS
+b = SMB - FTP
+c = (IMAP + POP3) * SMTP
+d = STUN * Echo
+
+Compute: Key = (a * b) + (c - d)

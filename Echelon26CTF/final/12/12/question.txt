@@ -1,0 +1,5 @@
+Authentication traffic references the username arjun.rampal and a repeated session identifier, a9f3c2e1, across multiple protocols.
+DNS queries for arjun-rampal.internal return TXT records containing structured data tied to that same identifier.
+Separately, certificate metadata in the capture shows a validity period ending on 2014-01-01.
+All authentication activity using this identity occurs well after that date.
+If the credentials are valid but the identity expired years earlier, then the name was never the actor.

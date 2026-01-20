@@ -1,0 +1,13 @@
+=== HARD 1 — SILENT CLEARANCE (ORGANIZER SOLUTION) ===
+
+Flag:
+flag{arjun_is_innocent}
+
+How the flag is hidden:
+- Server sends HTTP 200 OK responses without requests
+- Each response body contains a fragment of the flag
+- Arjun's name appears only in responses
+
+Intended player conclusion:
+The system approved actions on its own.
+Arjun never acted and is innocent.

@@ -1,0 +1,13 @@
+=== HARD 2 — QUIET AGREEMENT (ORGANIZER SOLUTION) ===
+
+Flag:
+On further inspection from the CBI and checking their DB, you realize that the only matching person Arjun Rampal died back in 2011. flag{arjun_dies}
+
+How the flag is hidden:
+- No payload data exists
+- Decisions are encoded in packet timing
+- Short delay = 0, Long delay = 1
+
+Story conclusion:
+The system agrees without a speaker.
+Consent exists without communication.

@@ -1,0 +1,7 @@
+=== PRIVATE SOLUTION (DO NOT DISTRIBUTE) ===
+
+Flag: In Maya's veil, numbers braid like mantras, two primes whispering Ra and Sa. Arjuna draws his bow at reflections, for illusion splits truth as keys split locks. A public face gleams in the hall of mirrors, signed and verified by the crowd. Yet the private hand is elsewhere, unseen, multiplying silence behind the screen. Know this riddle: the name you read authenticates, but does not encrypt the deed. Thus it is revealed, Arjun Rampal is a shadow on the wall, not the hacker at the core. flag{satya_chhupa_hai}
+
+Decoding logic:
+ascii = feature_1 * 10 + feature_2
+chr(ascii) for each row

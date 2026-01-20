@@ -1,0 +1,53 @@
+So, you were welcomed to the Creed is it?
+Well, here's your first mission:
+-- Templar officials all around the world are spreading their false utopian ideologies.
+-- These Templar officials are governed by one mastermind, The Vulture.
+
+-- Your mission is to hunt this Vulture down and assassinate it.
+
+-- Login in to your Assassin portal below and get your assassin name and the
+last seen location of the Vulture.
+
+Flag of the form : isfcr{Assassin name:Location}
+Your codename will be required to gain access in further missions.<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Login — Assassin Portal</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link href="css/style.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">ASSASSIN PORTAL</div>
+    <nav class="navlinks">
+      <a href="index.html">Home</a>
+      <a href="tasks.html">Tasks</a>
+    </nav>
+  </header>
+
+  <main class="center-card">
+    <h2>Portal Login</h2>
+    <p class="muted">"What does 'Being an assassin' demand?"</p>
+
+    <form id="loginForm" onsubmit="return doLogin(event)">
+      <label>Access Key</label>
+      <input id="accessKey" type="password" autocomplete="off" required />
+      <button class="btn big">Enter</button>
+      <div id="loginError" class="error"></div>
+    </form>
+  </main>
+
+  <!-- Codename overlay -->
+  <div id="codenameOverlay" class="overlay hidden">
+    <div class="overlay-content">
+      <h2>Welcome, <span id="codenameDisplay" class="codename-letters"></span></h2>
+      <p class="muted">Your mission awaits. Proceed to Tasks to get started.</p>
+      <button class="btn big" onclick="closeOverlay()">Continue</button>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
