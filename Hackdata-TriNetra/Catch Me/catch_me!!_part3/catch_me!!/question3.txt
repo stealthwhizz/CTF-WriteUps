@@ -1,0 +1,20 @@
+
+The ACM Student Chapter at Shiv Nadar University recently conducted a fun and engaging campus event.
+Photos from the event were meant to remain internal until the official release.
+
+However, one image was leaked online.
+
+Initial investigation suggests that one of the ACM Leads was responsible.
+To avoid being identified, the person attempted to cover their tracks by removing obvious traces and spreading the image across different platforms.
+
+Your task is to use OSINT (Open-Source Intelligence) techniques to retrace the digital footprint, uncover hidden clues, and ultimately identify who leaked the image
+-----------------------------
+Further analysis of the repository activity shows that the cleanup was not performed by the original uploader alone.
+A different identity appears in the project history during the attempt to cover up the leak.
+
+question_3->The secondary identity involved in the cleanup left behind additional publicly accessible information..
+
+What is the email address used by this user?
+
+Hint:
+Public information is often overlooked because it doesn’t look like a leak

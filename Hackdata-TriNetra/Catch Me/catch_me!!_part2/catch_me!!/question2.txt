@@ -1,0 +1,16 @@
+The ACM Student Chapter at Shiv Nadar University recently conducted a fun and engaging campus event.
+Photos from the event were meant to remain internal until the official release.
+
+However, one image was leaked online.
+
+Initial investigation suggests that one of the ACM Leads was responsible.
+To avoid being identified, the person attempted to cover their tracks by removing obvious traces and spreading the image across different platforms.
+
+Your task is to use OSINT (Open-Source Intelligence) techniques to retrace the digital footprint, uncover hidden clues, and ultimately identify who leaked the image
+--------------------
+
+question_2->Identify the original filename from which the image was uploaded.
+
+Hint:
+
+Look closely at the directory structure and the way the file is stored — popular platforms often follow recognizable patterns.

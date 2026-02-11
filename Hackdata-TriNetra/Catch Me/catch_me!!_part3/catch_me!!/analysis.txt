@@ -1,0 +1,43 @@
+## Analysis Summary
+
+### Identity 1: ghostframebyte (Primary - Original Uploader)
+- GitHub: https://github.com/ghostframebyte
+- Email (from commits): adithya.ixf.09@gmail.com
+- Repositories:
+  - ghostframebyte/leaked (original leak)
+  - ghostframebyte/event-assets
+
+### Identity 2: krankedmann (Secondary - Cleanup Helper)
+- GitHub: https://github.com/krankedmann  
+- Email (from commits): d14316308@gmail.com
+- Bio: "Hey! I'm one of the proud leads of the ACM club at Shiv Adarsh University"
+- Forked: ghostframebyte/leaked
+- Made cleanup commits with message "nothing..."
+- Deleted base64 encoded string from README in commit dc8e008
+
+### Sherlock Results for krankedmann:
+- AllMyLinks: https://allmylinks.com/krankedmann
+- Archive.org: https://archive.org/details/@krankedmann
+- Envato Forum: https://forums.envato.com/u/krankedmann
+- GNOME VCS: https://gitlab.gnome.org/krankedmann
+- GeeksforGeeks: https://auth.geeksforgeeks.org/user/krankedmann
+- GitHub: https://www.github.com/krankedmann
+- HackenProof: https://hackenproof.com/hackers/krankedmann
+- Hubski: https://hubski.com/user/krankedmann
+
+### Commits by krankedmann:
+1. 65e80e5 - "nothing"
+2. 99f709c - "nothing..."
+3. dc8e008 - "nothing..." (deleted base64 string)
+4. da61306 - "nothing..." (added base64 string)
+5. 8ce827f - "nothing..."
+6. 8449872 - "nothing..." (created README.md)
+
+### Question 3 Answer Attempts:
+- Tried: TriNetra{d14316308@gmail.com} - INCORRECT
+
+### Notes:
+- The base64 string deleted in commit dc8e008 hasn't been successfully decoded yet
+- krankedmann's GitHub profile has NO public email set
+- Need to find the correct email address for question 3
+- For question 4, need to find the real name (in CAPS)

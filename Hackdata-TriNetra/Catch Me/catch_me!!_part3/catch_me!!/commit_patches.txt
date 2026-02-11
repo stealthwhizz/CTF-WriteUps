@@ -1,0 +1,169 @@
+=== COMMIT 65e80e5b3fa533428d6a32251b2992624a5bf19a ===
+From 65e80e5b3fa533428d6a32251b2992624a5bf19a Mon Sep 17 00:00:00 2001
+From: krankedmann <d14316308@gmail.com>
+Date: Sun, 1 Feb 2026 01:04:48 +0530
+Subject: [PATCH] nothing
+
+---
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 1dc5c46..4fcfeac 100644
+--- a/README.md
++++ b/README.md
+@@ -14,7 +14,9 @@ it’s also about knowing what you already exposed.
+ 
+ Sometimes the smallest clue leads to the biggest find.
+ 
+-
++Fun fact:  
++Many challenges are solved not by tools,  
++but by observation.
+ 
+ 
+ 
+
+
+
+=== COMMIT 99f709c8bfbc9010d119eeff59d402345d7ff94f ===
+From 99f709c8bfbc9010d119eeff59d402345d7ff94f Mon Sep 17 00:00:00 2001
+From: krankedmann <d14316308@gmail.com>
+Date: Sun, 1 Feb 2026 01:03:54 +0530
+Subject: [PATCH] nothing...
+
+---
+ README.md | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/README.md b/README.md
+index 22d4463..1dc5c46 100644
+--- a/README.md
++++ b/README.md
+@@ -12,6 +12,10 @@ OSINT is more about patience than hacking.
+ Cybersecurity isn’t only about breaking in,  
+ it’s also about knowing what you already exposed.
+ 
++Sometimes the smallest clue leads to the biggest find.
++
++
++
+ 
+ 
+ 
+
+
+
+=== COMMIT dc8e008bf0dfcdbd7912054a16fb0f88c2ce3662 ===
+From dc8e008bf0dfcdbd7912054a16fb0f88c2ce3662 Mon Sep 17 00:00:00 2001
+From: krankedmann <d14316308@gmail.com>
+Date: Sun, 1 Feb 2026 01:03:16 +0530
+Subject: [PATCH] nothing...
+
+---
+ README.md | 5 ++---
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+diff --git a/README.md b/README.md
+index 75b7aea..22d4463 100644
+--- a/README.md
++++ b/README.md
+@@ -9,11 +9,10 @@ most just don’t know where to look.
+ 
+ OSINT is more about patience than hacking.
+ 
++Cybersecurity isn’t only about breaking in,  
++it’s also about knowing what you already exposed.
+ 
+ 
+ 
+ 
+ 
+-
+-
+-ATHtAGDtAGRtAwptATHtA2RtAQxtAwptATHtAzRtAzVtAwptATHtAQptAGHtAwptATHtAzRtAGHtAwptATHtA2RtAGRtAwptATHtA2RtAQxtAwptATHtAzRtAQHtAwptATHtZmVtAQxtAwptATHtAzDtAQxtAwptATHtA2RtAQxtAwptATHtAzRtAQHtAwptATHtAzDtAGHtAwptATHtAzDtAQxtAwptATHtAzRtAGHtAwptATHtAzRtAGRtAwptATHtAzDtAGRtAwptATHtAzRtAQHtAwptATHtAzDtAGHtAwptATHtAzDtAGHtAwptATHtZmVtAGRtAwptATHtAQDtAQRtAwptATHtAzDtAGxtAwptATHtA2RtAGHtAwptATHtA2RtAGRtAwptATHtAzDtATDtAwptATHtAzDtAGxtAwptATHtAzDtAGxtAwptATHtAzDtAQxtAwptATDtAzDtAGHtAwptATHtAzRtATDtAwptATHtAzDtAGxtAwptATHtAzDtAGRtZ2D=
+
+
+
+=== COMMIT da61306319680b998844acf33f0a1558b71107c5 ===
+From da61306319680b998844acf33f0a1558b71107c5 Mon Sep 17 00:00:00 2001
+From: krankedmann <d14316308@gmail.com>
+Date: Sun, 1 Feb 2026 01:02:47 +0530
+Subject: [PATCH] nothing...
+
+---
+ README.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+diff --git a/README.md b/README.md
+index 78079d3..75b7aea 100644
+--- a/README.md
++++ b/README.md
+@@ -7,4 +7,13 @@ Fun fact:
+ A lot of information people find online is publicly available —  
+ most just don’t know where to look.
+ 
++OSINT is more about patience than hacking.
+ 
++
++
++
++
++
++
++
++ATHtAGDtAGRtAwptATHtA2RtAQxtAwptATHtAzRtAzVtAwptATHtAQptAGHtAwptATHtAzRtAGHtAwptATHtA2RtAGRtAwptATHtA2RtAQxtAwptATHtAzRtAQHtAwptATHtZmVtAQxtAwptATHtAzDtAQxtAwptATHtA2RtAQxtAwptATHtAzRtAQHtAwptATHtAzDtAGHtAwptATHtAzDtAQxtAwptATHtAzRtAGHtAwptATHtAzRtAGRtAwptATHtAzDtAGRtAwptATHtAzRtAQHtAwptATHtAzDtAGHtAwptATHtAzDtAGHtAwptATHtZmVtAGRtAwptATHtAQDtAQRtAwptATHtAzDtAGxtAwptATHtA2RtAGHtAwptATHtA2RtAGRtAwptATHtAzDtATDtAwptATHtAzDtAGxtAwptATHtAzDtAGxtAwptATHtAzDtAQxtAwptATDtAzDtAGHtAwptATHtAzRtATDtAwptATHtAzDtAGxtAwptATHtAzDtAGRtZ2D=
+
+
+
+=== COMMIT 8ce827f8e75e4e5f3dff1a22215ee9055d759559 ===
+From 8ce827f8e75e4e5f3dff1a22215ee9055d759559 Mon Sep 17 00:00:00 2001
+From: krankedmann <d14316308@gmail.com>
+Date: Sun, 1 Feb 2026 00:54:32 +0530
+Subject: [PATCH] nothing...
+
+---
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/README.md b/README.md
+index ccdc11e..78079d3 100644
+--- a/README.md
++++ b/README.md
+@@ -3,3 +3,8 @@ Even deleted data sometimes leaves traces.
+ 
+ Digital footprints are bigger than people think.
+ 
++Fun fact:  
++A lot of information people find online is publicly available —  
++most just don’t know where to look.
++
++
+
+
+
+=== COMMIT 84498729e25c745c106a2a00311dc6bcf0d6408f ===
+From 84498729e25c745c106a2a00311dc6bcf0d6408f Mon Sep 17 00:00:00 2001
+From: krankedmann <d14316308@gmail.com>
+Date: Sun, 1 Feb 2026 00:54:04 +0530
+Subject: [PATCH] nothing...
+
+---
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..ccdc11e
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,5 @@
++The internet never really forgets.  
++Even deleted data sometimes leaves traces.
++
++Digital footprints are bigger than people think.
++
+
+
+

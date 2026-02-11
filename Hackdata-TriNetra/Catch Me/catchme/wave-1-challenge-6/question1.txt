@@ -1,0 +1,15 @@
+The ACM Student Chapter at Shiv Nadar University recently conducted a fun and engaging campus event.
+Photos from the event were meant to remain internal until the official release.
+
+However, one image was leaked online.
+
+Initial investigation suggests that one of the ACM Leads was responsible.
+To avoid being identified, the person attempted to cover their tracks by removing obvious traces and spreading the image across different platforms.
+
+Your task is to use OSINT (Open-Source Intelligence) techniques to retrace the digital footprint, uncover hidden clues, and ultimately identify who leaked the image
+---------------------
+question_1->What is the online username associated with the leaked image?
+
+Hint:
+The photo itself is an important piece of evidence. Look closely at everything the image contains.
+

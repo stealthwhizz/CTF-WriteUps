@@ -1,0 +1,12 @@
+Update available! 0.15.0 --> 0.16.0
+https://github.com/sherlock-project/sherlock/releases/tag/v0.16.0
+[*] Checking username krankedmann on:
+
+[+] AllMyLinks: https://allmylinks.com/krankedmann
+[+] Archive.org: https://archive.org/details/@krankedmann
+[+] Envato Forum: https://forums.envato.com/u/krankedmann
+[+] GNOME VCS: https://gitlab.gnome.org/krankedmann
+[+] GeeksforGeeks: https://auth.geeksforgeeks.org/user/krankedmann
+[+] GitHub: https://www.github.com/krankedmann
+[+] HackenProof (Hackers): https://hackenproof.com/hackers/krankedmann
+[+] Hubski: https://hubski.com/user/krankedmann

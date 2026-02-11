@@ -1,0 +1,4517 @@
+%PDF-1.7
+%QDF-1.0
+%% Original object ID: 1 0
+1 0 obj
+  /Lang (en)
+  /MarkInfo <<
+    /Marked true
+  >>
+  /Metadata 3 0 R
+  /Pages 5 0 R
+  /StructTreeRoot 6 0 R
+  /Type /Catalog
+  /ViewerPreferences 7 0 R
+endobj
+%% Original object ID: 30 0
+2 0 obj
+  /Author (Bhavy Garg)
+  /CreationDate (D:20251223124054+05'30')
+  /Creator <feff004d006900630072006f0073006f0066007400ae00200057006f0072006400200066006f00720020004d006900630072006f0073006f006600740020003300360035>
+  /ModDate (D:20251223124054+05'30')
+  /Producer <feff004d006900630072006f0073006f0066007400ae00200057006f0072006400200066006f00720020004d006900630072006f0073006f006600740020003300360035>
+endobj
+%% Original object ID: 66 0
+3 0 obj
+  /Subtype /XML
+  /Type /Metadata
+  /Length 4 0 R
+stream
+<?xpacket begin="
+" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-701">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:about=""  xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+<pdf:Producer>Microsoft
+ Word for Microsoft 365</pdf:Producer></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:creator><rdf:Seq><rdf:li>Bhavy Garg</rdf:li></rdf:Seq></dc:creator></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+<xmp:CreatorTool>Microsoft
+ Word for Microsoft 365</xmp:CreatorTool><xmp:CreateDate>2025-12-23T12:40:54+05:30</xmp:CreateDate><xmp:ModifyDate>2025-12-23T12:40:54+05:30</xmp:ModifyDate></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+<xmpMM:DocumentID>uuid:69B859D9-497E-4583-B853-74F49168C741</xmpMM:DocumentID><xmpMM:InstanceID>uuid:69B859D9-497E-4583-B853-74F49168C741</xmpMM:InstanceID></rdf:Description>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+</rdf:RDF></x:xmpmeta><?xpacket end="w"?>
+endstream
+endobj
+%QDF: ignore_newline
+4 0 obj
+3086
+endobj
+%% Original object ID: 2 0
+5 0 obj
+  /Count 1
+  /Kids [
+    8 0 R
+  /Type /Pages
+endobj
+%% Original object ID: 31 0
+6 0 obj
+  /K [
+    9 0 R
+  /ParentTree 10 0 R
+  /ParentTreeNextKey 1
+  /RoleMap 11 0 R
+  /Type /StructTreeRoot
+endobj
+%% Original object ID: 67 0
+7 0 obj
+  /DisplayDocTitle true
+endobj
+%% Page 1
+%% Original object ID: 3 0
+8 0 obj
+  /Contents 12 0 R
+  /Group <<
+    /CS /DeviceRGB
+    /S /Transparency
+    /Type /Group
+  >>
+  /MediaBox [
+    0
+    0
+    595.32
+    841.92
+  /Parent 5 0 R
+  /Resources <<
+    /ExtGState <<
+      /GS12 14 0 R
+      /GS6 15 0 R
+    >>
+    /Font <<
+      /F1 16 0 R
+      /F2 17 0 R
+      /F3 18 0 R
+      /F4 19 0 R
+      /F5 20 0 R
+      /F6 21 0 R
+    >>
+    /ProcSet [
+      /PDF
+      /Text
+      /ImageB
+      /ImageC
+      /ImageI
+    ]
+    /XObject <<
+      /Image29 22 0 R
+      /Image5 24 0 R
+    >>
+  >>
+  /StructParents 0
+  /Tabs /S
+  /Type /Page
+endobj
+%% Original object ID: 35 0
+9 0 obj
+  /K [
+    26 0 R
+    27 0 R
+    28 0 R
+    29 0 R
+    30 0 R
+    31 0 R
+    32 0 R
+    33 0 R
+    34 0 R
+    35 0 R
+    36 0 R
+    37 0 R
+  /P 6 0 R
+  /S /Document
+  /Type /StructElem
+endobj
+%% Original object ID: 33 0
+10 0 obj
+  /Nums [
+    0
+    38 0 R
+endobj
+%% Original object ID: 32 0
+11 0 obj
+  /Annotation /Sect
+  /Artifact /Sect
+  /Chart /Sect
+  /Chartsheet /Part
+  /CommentAnchor /Span
+  /Diagram /Figure
+  /Dialogsheet /Part
+  /Endnote /Note
+  /Footer /Sect
+  /Footnote /Note
+  /Header /Sect
+  /InlineShape /Sect
+  /Macrosheet /Part
+  /Notes /Sect
+  /Slide /Sect
+  /Textbox /Sect
+  /Title /H1
+  /Workbook /Document
+  /Worksheet /Part
+endobj
+%% Contents for page 1
+%% Original object ID: 4 0
+12 0 obj
+  /Length 13 0 R
+stream
+ /P <</MCID 0>> BDC /GS6 gs
+383.8 72.962 139.43 31.55 re
+W* n
+139.43 0 0 31.55 383.8 72.962 cm
+/Image5 Do Q
+ EMC  /Span <</MCID 1/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F1 27.96 Tf
+1 0 0 1 83.424 743.26 Tm
+/GS12 gs
+[<0012015d019a01c7>4<00030044>-2<011e0176>10<019a>4<0102016f0003002c011e0102016f>3<019a>-4<015a00030064>52<018c>12<011e0102>10<019a0175>-6<011e0176>10<019a>-4<00030012011e0176>10<019a018c>11<011e>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F2 27.96 Tf
+1 0 0 1 512.02 743.26 Tm
+[( )] TJ
+ EMC  /Span <</MCID 2/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F3 18 Tf
+1 0 0 1 244.97 705.1 Tm
+[<0057>4<005a001c>11<005e0012005a>4<002f00570064002f004b0045>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F4 18 Tf
+1 0 0 1 350.47 705.1 Tm
+[( )] TJ
+ EMC  /Span <</MCID 3/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F4 18 Tf
+1 0 0 1 297.65 671.74 Tm
+[( )] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+ EMC /Artifact BMC q
+70.584 661.66 454.27 0.72 re
+ EMC Q
+ /Span <</MCID 4/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F5 12 Tf
+1 0 0 1 72.024 642.22 Tm
+[( )] TJ
+ EMC  /Span <</MCID 5/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 617.26 Tm
+[<0018>-4<011e0102>-2<018c0003>5<0057>17<0102>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 109.7 617.26 Tm
+[<019f>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 116.42 617.26 Tm
+[<011e>8<0176>5<019a>5<03550003>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F5 12 Tf
+1 0 0 1 138.14 617.26 Tm
+[( )] TJ
+ EMC  /Span <</MCID 6/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 592.3 Tm
+[<002f00030176>-6<011e011e>6<011a>-4<0003>-3<01c7>13<017d>7<01b5>-4<018c0003>5<015a>-4<011e016f0189>3<0003>-3<0004>9<00270004002f004503550003>4<01c7>13<017d01b5>-7<0003>-3<015a>5<011e016f0189>-6<011e>8<011a>-4<0003>-3<0175>9<011e0003>-5<011e01900110>12<01020189>4<011e0003>-5<0128>-4<018c>29<017d0175>-3<0003>-3<015a>-4<011e>8<018c>9<011e>8<0003>-3<016f01020190>10<019a>5<0003>-3<0175011e03550003>3<010f>-4<01b5>-4<019a>5<0003>-3<002f0003>8<0189>-4<018c>29<017d0175>-3<015d0190011e0003>-4<019a>5<015a>-4<015d01900003>-2<015d0190>11<0003>-3<019a>5<015a>-4<011e0003>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 575.35 Tm
+[<016f01020190>10<019a>5<0003>-3<0175011e0003>-6<002f000301c1015d016f016f0003019a>4<018c>19<017d01b5>-7<010f>-4<016f>10<011e0003>-5<01c7>13<017d>7<01b5>-4<0358>12<0003>-3<003e01020190>10<019a>5<0003>-3<0175011e03550003>3<01c1>5<011e0003>4<01c1>5<011e018c>7<011e>8<0003>-3<0190017d0003>-5<0110>3<016f017d>7<0190011e0003>-4<019a>5<017d>7<0003>-3<0110>13<0102>9<019a>15<0110>3<015a>-4<015d0176>-4<01500003>-2<019a>5<015a>-4<011e>8<0003>-3<019a>5<01c1>5<017d0003>-6<0110>3<01b5>5<016f0189>-4<018c015d019a>4<01900358>3<0003>-3<019a>5<015a>-4<011e>8<01c700030175015d0150015a>4<019a>5<0003>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 558.31 Tm
+[<015a>-4<0102>19<01c0>12<011e0003>-5<01900102015d011a>5<0003>-3<0190017d0175>-2<011e>8<019a>5<015a>-4<015d0176>-4<01500003>-2<0102>9<010f>-4<017d>7<01b5>-4<019a>5<0003>-3<0175011e0003>-6<015d>10<0176>-4<0003>-3<019a>5<015a>-4<011e015d018c>7<0003>-3<018c>9<011e>8<016f011e0102>-2<0190011e0003>5<018c>9<011e>8<0189>-4<017d018c>-3<019a>5<01900358>3<0003>-3<002f00030175>-2<01020176>-5<01020150>10<011e>8<011a>-4<0003>6<019a>5<017d0003>3<011a>-4<017d>7<01c1>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 428.71 558.31 Tm
+[<0176>-4<016f017d0102>-3<011a>5<0003>-3<019a>5<015a>-4<011e0003>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 541.39 Tm
+[<015a>-4<017d01900189>-6<015d019a>15<0102016f035b>59<01900003>7<011a>-4<0102>9<019a>15<0102010f>-5<01020190011e>8<0003>-3<0128>-4<018c>19<017d0175>6<0003>6<019a>5<015a>-4<015d01900003>-2<011a>-4<017d0110019a>5<017d018c>-43<035b>60<0190>11<0003>-3<0190>21<01c7>13<0190>11<019a>15<011e017503550003>-6<019a>5<015a>-4<011e>8<01c7000301c1>4<015d016f016f0003>-3<0189>-4<018c>19<017d010f>-7<0102>9<010f>-4<016f01c7>3<0003>-3<0189>5<01b5>-4<019a>5<0003>-3<0175011e0003>-6<015d>10<0176>15<019a>5<017d0003>-6<0190017d016f015d019a>13<0102018c01c70003>-2<010201900003>-3<0190017d>8<017d01760003>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 524.47 Tm
+[<010201900003>-3<019a>5<015a>-4<011e>8<01c70003012e0176>-6<011a>5<0003>-3<019a>5<015a>-4<015d01900003>-2<01750102015d016f>8<0003>-3<017d01b5>-7<019a>15<03580003002f0003>-3<0110>13<01020176>-5<0176>-4<017d019a00030102>7<0003>-3<01020110015a0003>-6<019a>5<015a>-4<011e>8<0003>-3<011a>-4<0102>9<019a>15<0102>9<010f>-4<01020190011e0003>-5<012e016f011e>7<0003>-3<015d0176>5<0003>-3<019a>5<015a>-4<011e0003>-5<0175>9<0102015d016f0003>-4<0190017d>8<0003>-3<002f0003>8<0189>-4<01b5>-4<019a>5<0003>-3<019a>5<015a>-4<011e0003>4<011a>-4<0102>9<019a>15<0102010f>-5<01020190011e>8<0003>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 507.43 Tm
+[<015d0176>-4<0190015d011a>-3<011e>8<0003>-3<019a>5<015a>-4<015d01900003>-2<0189>5<011a>-4<0128>65<03550003>-3<011e>18<01c6>-6<019a>5<018c>19<01020110019a>7<0003>-3<019a>5<015a>-4<0102>9<019a>5<0003>-3<01020176>-5<011a>-4<0003>-3<015d0176>5<0128>25<017d018c>-3<0175>9<0003>-3<019a>5<015a>-4<011e0003>4<010201b5>-5<019a>5<015a>-4<017d018c>6<015d0003>-3<011e01900003>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 331.75 507.43 Tm
+[<0102>9<010f>-4<017d01b5>-7<019a>5<0003>-3<015d019a>5<03580003002f0003>-3<0110>13<01020176>4<019a>5<0003>-3<010f>5<011e0102>-2<018c0003>-4<015d>10<019a>5<0003>-3<015d0176>-4<0003>-3<015a>-4<011e>8<018c>9<011e>8<0003>-3<01020176>14<01c70175017d>9<018c>9<011e03580003>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 490.51 Tm
+[<002c>3<001c003e0057>-4<0003>-3<0044>5<001c034a>-5<0003>-3<0004003e005e004b0003>-3<019a>5<015a>5<011e0003>-5<011a>5<017d0110019a>15<017d018c>-43<035b>60<01900003>-2<011a>-4<011e0190016c>4<0003>-3<002f00030102>-2<0175>9<0003>-3<0190011e0176>4<011a>-4<015d0176>-4<0150>11<0003>-3<019a>5<015a>5<015d01900003>-2<0128>-4<018c>19<017d0175>-3<0003>-3<015d0190>11<0003>-3<012e0190015a>15<01c7034a>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F5 12 Tf
+1 0 0 1 384.55 490.51 Tm
+[( )] TJ
+ EMC  /Span <</MCID 7/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 465.55 Tm
+[<005a>13<011e0150>19<0102018c>18<011a>-4<01900355>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F5 12 Tf
+1 0 0 1 113.54 465.55 Tm
+[( )] TJ
+ EMC  /Span <</MCID 8/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 440.59 Tm
+[<0044>5<018c>99<035800030018>-6<01b5>-4<010f>5<0190016c>6<01c7>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F5 12 Tf
+1 0 0 1 126.5 440.59 Tm
+[( )] TJ
+ EMC  /Span <</MCID 9/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F6 12 Tf
+1 0 0 1 72.024 415.63 Tm
+[<002c>3<011e0102>-2<011a>-4<0003>-3<017d>7<0128>-4<0003>-3<004b0057>9<0018>] TJ
+0.000008871 0 595.32 841.92 re
+W* n
+/F5 12 Tf
+1 0 0 1 134.42 415.63 Tm
+[( )] TJ
+ EMC  /Span <</MCID 10/Lang (en-IN)>> BDC q
+0.000008871 0 595.32 841.92 re
+W* n
+/F5 12 Tf
+1 0 0 1 171.02 343.49 Tm
+[( )] TJ
+ EMC  /P <</MCID 11>> BDC q
+72 344.31 98.25 57.75 re
+W* n
+98.25 0 0 57.75 72 344.31 cm
+/Image29 Do Q
+ EMC 
+endstream
+endobj
+%QDF: ignore_newline
+13 0 obj
+7694
+endobj
+%% Original object ID: 12 0
+14 0 obj
+  /BM /Normal
+  /CA 1
+  /Type /ExtGState
+endobj
+%% Original object ID: 6 0
+15 0 obj
+  /BM /Normal
+  /Type /ExtGState
+  /ca 1
+endobj
+%% Original object ID: 7 0
+16 0 obj
+  /BaseFont /BCDEEE+Calibri-Bold
+  /DescendantFonts 39 0 R
+  /Encoding /Identity-H
+  /Subtype /Type0
+  /ToUnicode 40 0 R
+  /Type /Font
+endobj
+%% Original object ID: 13 0
+17 0 obj
+  /BaseFont /BCDFEE+Calibri-Bold
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 42 0 R
+  /LastChar 32
+  /Name /F2
+  /Subtype /TrueType
+  /Type /Font
+  /Widths 43 0 R
+endobj
+%% Original object ID: 15 0
+18 0 obj
+  /BaseFont /BCDGEE+Calibri-Italic
+  /DescendantFonts 44 0 R
+  /Encoding /Identity-H
+  /Subtype /Type0
+  /ToUnicode 45 0 R
+  /Type /Font
+endobj
+%% Original object ID: 20 0
+19 0 obj
+  /BaseFont /BCDHEE+Calibri-Italic
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 47 0 R
+  /LastChar 32
+  /Name /F4
+  /Subtype /TrueType
+  /Type /Font
+  /Widths 48 0 R
+endobj
+%% Original object ID: 22 0
+20 0 obj
+  /BaseFont /BCDIEE+Calibri
+  /Encoding /WinAnsiEncoding
+  /FirstChar 32
+  /FontDescriptor 49 0 R
+  /LastChar 32
+  /Name /F5
+  /Subtype /TrueType
+  /Type /Font
+  /Widths 50 0 R
+endobj
+%% Original object ID: 24 0
+21 0 obj
+  /BaseFont /BCDJEE+Calibri
+  /DescendantFonts 51 0 R
+  /Encoding /Identity-H
+  /Subtype /Type0
+  /ToUnicode 52 0 R
+  /Type /Font
+endobj
+%% Original object ID: 29 0
+22 0 obj
+  /BitsPerComponent 8
+  /ColorSpace /DeviceRGB
+  /Height 77
+  /Interpolate false
+  /Subtype /Image
+  /Type /XObject
+  /Width 131
+  /Length 23 0 R
+stream
+~P:#
+3Qfooqooqo
+qXA9Qo
+~P:#
+**.#
+:fgA
+3`_:
+g#*w
+*IgqX:
+@Xo[A
+~Q9**.**DX
+jA#T
+#:Q|
+~oqooqo
+qooqoo|
+endstream
+endobj
+%QDF: ignore_newline
+23 0 obj
+30261
+endobj
+%% Original object ID: 5 0
+24 0 obj
+  /BitsPerComponent 8
+  /ColorSpace /DeviceRGB
+  /Height 93
+  /Interpolate false
+  /Subtype /Image
+  /Type /XObject
+  /Width 411
+  /Length 25 0 R
+stream
+endstream
+endobj
+%QDF: ignore_newline
+25 0 obj
+114669
+endobj
+%% Original object ID: 36 0
+26 0 obj
+  /K [
+    1
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 39 0
+27 0 obj
+  /K [
+    2
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 40 0
+28 0 obj
+  /K [
+    3
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 41 0
+29 0 obj
+  /K [
+    4
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 42 0
+30 0 obj
+  /K [
+    5
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 43 0
+31 0 obj
+  /K [
+    6
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 44 0
+32 0 obj
+  /K [
+    7
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 45 0
+33 0 obj
+  /K [
+    8
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 46 0
+34 0 obj
+  /K [
+    9
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 47 0
+35 0 obj
+  /A 54 0 R
+  /K [
+    0
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /Figure
+  /Type /StructElem
+endobj
+%% Original object ID: 50 0
+36 0 obj
+  /K [
+    10
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /P
+  /Type /StructElem
+endobj
+%% Original object ID: 51 0
+37 0 obj
+  /A 55 0 R
+  /K [
+    11
+  /P 9 0 R
+  /Pg 8 0 R
+  /S /Figure
+  /Type /StructElem
+endobj
+%% Original object ID: 37 0
+38 0 obj
+  35 0 R
+  26 0 R
+  27 0 R
+  28 0 R
+  29 0 R
+  30 0 R
+  31 0 R
+  32 0 R
+  33 0 R
+  34 0 R
+  36 0 R
+  37 0 R
+endobj
+%% Original object ID: 8 0
+39 0 obj
+  56 0 R
+endobj
+%% Original object ID: 54 0
+40 0 obj
+  /Length 41 0 R
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (Adobe)
+/Ordering (UCS)
+/Supplement 0
+>> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+10 beginbfchar
+<0003> <0020>
+<0012> <0043>
+<002C> <0048>
+<0044> <004D>
+<0064> <0054>
+<0102> <0061>
+<011E> <0065>
+<015A> <0068>
+<015D> <0069>
+<016F> <006C>
+endbfchar
+1 beginbfrange
+<0175> <0176> <006D>
+endbfrange
+3 beginbfchar
+<018C> <0072>
+<019A> <0074>
+<01C7> <0079>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+endstream
+endobj
+%QDF: ignore_newline
+41 0 obj
+endobj
+%% Original object ID: 14 0
+42 0 obj
+  /Ascent 750
+  /AvgWidth 536
+  /CapHeight 750
+  /Descent -250
+  /Flags 32
+  /FontBBox [
+    -519
+    -250
+    1263
+    750
+  /FontFile2 57 0 R
+  /FontName /BCDFEE+Calibri-Bold
+  /FontWeight 700
+  /ItalicAngle 0
+  /MaxWidth 1781
+  /StemV 53
+  /Type /FontDescriptor
+  /XHeight 250
+endobj
+%% Original object ID: 57 0
+43 0 obj
+  226
+endobj
+%% Original object ID: 16 0
+44 0 obj
+  59 0 R
+endobj
+%% Original object ID: 58 0
+45 0 obj
+  /Length 46 0 R
+stream
+/CIDInit /ProcSet findresource begin
+10 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (Adobe)
+/Ordering (UCS)
+/Supplement 0
+>> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+9 beginbfchar
+<0012> <0043>
+<001C> <0045>
+<002F> <0049>
+<0045> <004E>
+<004B> <004F>
+<0057> <0050>
+<005A> <0052>
+<005E> <0053>
+<0064> <0054>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+endstream
+endobj
+%QDF: ignore_newline
+46 0 obj
+endobj
+%% Original object ID: 21 0
+47 0 obj
+  /Ascent 750
+  /AvgWidth 521
+  /CapHeight 750
+  /Descent -250
+  /Flags 32
+  /FontBBox [
+    -725
+    -250
+    1260
+    750
+  /FontFile2 60 0 R
+  /FontName /BCDHEE+Calibri-Italic
+  /FontWeight 400
+  /ItalicAngle -11
+  /MaxWidth 1984
+  /StemV 52
+  /Type /FontDescriptor
+  /XHeight 250
+endobj
+%% Original object ID: 61 0
+48 0 obj
+  226
+endobj
+%% Original object ID: 23 0
+49 0 obj
+  /Ascent 750
+  /AvgWidth 521
+  /CapHeight 750
+  /Descent -250
+  /Flags 32
+  /FontBBox [
+    -503
+    -250
+    1240
+    750
+  /FontFile2 62 0 R
+  /FontName /BCDIEE+Calibri
+  /FontWeight 400
+  /ItalicAngle 0
+  /MaxWidth 1743
+  /StemV 52
+  /Type /FontDescriptor
+  /XHeight 250
+endobj
+%% Original object ID: 65 0
+50 0 obj
+  226
+endobj
+%% Original object ID: 25 0
+51 0 obj
+  64 0 R
+endobj
+%% Original object ID: 62 0
+52 0 obj
+  /Length 53 0 R
+stream
+/CIDInit /ProcSet findresource begin
+19 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (Adobe)
+/Ordering (UCS)
+/Supplement 0
+>> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+1 beginbfrange
+<0003> <0004> [<0020> <0041>]
+endbfrange
+6 beginbfchar
+<0018> <0044>
+<001C> <0045>
+<0027> <0047>
+<002C> <0048>
+<002F> <0049>
+<003E> <004C>
+endbfchar
+1 beginbfrange
+<0044> <0045> <004D>
+endbfrange
+5 beginbfchar
+<004B> <004F>
+<0057> <0050>
+<005A> <0052>
+<005E> <0053>
+<0102> <0061>
+endbfchar
+1 beginbfrange
+<010F> <0110> <0062>
+endbfrange
+9 beginbfchar
+<011A> <0064>
+<011E> <0065>
+<0128> <0066>
+<012E> <00660069>
+<0150> <0067>
+<015A> <0068>
+<015D> <0069>
+<016C> <006B>
+<016F> <006C>
+endbfchar
+1 beginbfrange
+<0175> <0176> <006D>
+endbfrange
+7 beginbfchar
+<017D> <006F>
+<0189> <0070>
+<018C> <0072>
+<0190> <0073>
+<019A> <0074>
+<019F> <00740069>
+<01B5> <0075>
+endbfchar
+2 beginbfrange
+<01C0> <01C1> <0076>
+<01C6> <01C7> <0078>
+endbfrange
+4 beginbfchar
+<034A> <0021>
+<0355> <002C>
+<0358> <002E>
+<035B> <2019>
+endbfchar
+endcmap
+CMapName currentdict /CMap defineresource pop
+endstream
+endobj
+%QDF: ignore_newline
+53 0 obj
+1126
+endobj
+%% Original object ID: 48 0
+54 0 obj
+  /BBox 65 0 R
+  /O /Layout
+  /Placement /Block
+endobj
+%% Original object ID: 52 0
+55 0 obj
+  /BBox 66 0 R
+  /O /Layout
+  /Placement /Block
+endobj
+%% Original object ID: 9 0
+56 0 obj
+  /BaseFont /BCDEEE+Calibri-Bold
+  /CIDSystemInfo 67 0 R
+  /CIDToGIDMap /Identity
+  /DW 1000
+  /FontDescriptor 68 0 R
+  /Subtype /CIDFontType2
+  /Type /Font
+  /W 69 0 R
+endobj
+%% Original object ID: 55 0
+57 0 obj
+  /Length1 89212
+  /Length 58 0 R
+stream
+`EBDT
+EBLC
+POS/2
+`cmapl
+Jcvt ?
+fpgm
+glyf
+.$head
+6hhea
+$hmtx
+j\loca|
+maxp)
+ meta
+name4
+post
+ prep8
+MS  
+@ 	 
+@ 	 
+@F_^]\[ZYXUTSRQPONMLKJIHGFEDCBA@?>=<;:98765/.-,(&%$#"
+,E#F` 
+&#HH-,E#F#a 
+&#HH-,E#F`
+&#HH-,E#F#a
+&#HH-,E#F`
+&#HH-,E#F#a
+&#HH-,
+<-, E# 
+ZQX# 
+D#Y 
+QX# 
+MD#Y 
+&QX# 
+D#Y!!-,  E
+E`D-,
+C#Ce
+-, E
+%Ead
+PQXED
+!!Y-, E
+C`D-,
+-, i
+d#da\X
+aY-,
+-,Ee
+,#DE
++#D-,KRXED
+!!Y-,
+<-, 
+-,!!
+b-,!
+@/+Y
+`-,!
+b`#!-,E#E`#E`#E`#vh
+b -,
+%E#E 
+&`bch 
+#DD-, E
+@D E
+!!Y-,E
+0/E#Ea`
+`iD-,KQX
+!!Y-,KQX 
+%EiSXD
+!!Y-,E
+`iD-,
+/ED-,E# E
+`D-,E#E`D-,K#QX
+YDD-,
+ `f X
+aY#XeY
+)#D#
+!!!!!Y-,
+ `f X
+a#XeY
+%#B<
+`#B< X
+!Y!!!!!!!-,
+ `f X
+%#B<
+`#B< X
+) EeD
+!Y!!!!!!!-,
+%  F
+%EH!!!!-,
+%CH!!!-,E# E
+P X#e#Y#h 
+@PX!
+@Y#XeY
+`D-,KS#KQZX E
+!!Y-,KTX E
+!!Y-,KS#KQZX8
+!!Y-,
+!KTX8
+!!Y-,
+!!!!Y-,
+!!!Y-,
+!!!!Y-,
+!!!Y-, 
+KQZX#8
+!!Y-,
+F#F`#Fa# 
+pE`h:-, 
+#SX<
+!Y-,KRX}
+zY-,
+KTB-,
+C`BY
+C`BY
+C`BY
+C`BY
+C`BY
+C`BYYYYY-,E
+h#KQX# E d
+@PX|Yh
+`YD-,
+`#b-,
+	+Y 
+%IcY
+	%ZX
+!Ya# 
+%\XiY
+#2!!-,
+%c` 
+cSX!
+ceQX
+#y!!!!!!!!!!!!-,#
+[+-,
+[+-,
+[+-,
+ FAc
+H}U~
+};}K}
+}K}{}
+|HzU{
+yHwUx
+vHuUTu
+uTudutu
+u8;F
+FtHrUs
+Pr`r
+r$(F
+r0r@r
+qHoUp
+oUOooo
+FnHmU
+i.gUh
+gUf.dUe
+c.bUa.`U_.]U^
+]U\.ZU[
+Y.XUW
+V.TUU
+TUS.QUR
+QUO.NUN
+M.KUL
+KUJ.HUI
+HUPH
+G.FUE
+.2F@
+$'F?
+UZ[X
+KQZX
+BY+^susst+s+st++st^s+^stustu^stus
+^ststuutst^sts
+++s++++++++++++s++++++s++++++st^ss++stu++s++su_uu^s+++^sss+stu+^s++^s++st+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++s++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+stsststs+st+++++++++s+++ssss
+5'&6332>
+54&#"
+5467>
+y!;S1
+KM#6(
+'6B#UwJ"
+9X>$
+01Y%
+6632
+?[uD
+6dUD
+.IeFMyU,/W{MFfI/
+#+#?u
+l5!( 
+9/_^]+
+201++++++
+@	*R$
+9/_^]+
++?01Y%
+2&'3
+2'&3
+3&'2
+3'&2
+CUX@
+/01.
+????
+9++++
+222?
+9=/33
+/01.
+????
+9++++
+222?01Y%
+46332
+0%$0
+0""0
+/%$0
+.B0 
++201Y
+3&&3
+901%
+#"&&67
+;718
+5+-1
+$>3);)
+%_#(
+/1?1
+3H[5u
+t+SG8
+$:R9>`A"(Ie>4M8'
+1Z~LZ
+#!"&5
+463!2
+!Ht`kkXrM&
+FxY2
+99//
+201%
+#!"&5
+463!2
+m@	$$
+201%
+3%&2
+2%&2
+2&%2
+2&%3
+2%&2
+2&%2
+#!"&5
+2&%2
+e7.$&
+Y@	"
+--"4
+"5d-
+????
+9901%
+46332
+0%&0
+8? -
+0&&/
+9*:#
+201%
+##"&'
+&&'#
+46332
+*""-
+*"#+
+	U),&*
+H#PRP$
+463!2
+ :-+4 
+%/%J
+2%&3
+&<6vn3?*
+&$"HoK6ZG5
+2&'1
+&&6632
+2%&3
+<7.7
+3+6:
+L44.A*
+@"P"`"
+9/_^]]]_]
+9/+]q
+2901
+L44.A*
+@"P"`"
+9/_^]]]_]
+9/+]q
+]q01Y%
+#"&&55
+3354.
+3267
++*-)
+VGwW0=y
+'A0?cL3
+F^o;i
+`=V6
+G?5Y.
+G;B%IlHNsK$6*?*
+$3!8@64
+2901
+@	!F
+9?01Y%
+&&#"
+Y(3b
+_Kz<
+0%%0
+6c61G+
+136 "
+cJRO
+4DH1Re58jS2
+9/]q^]+
+9/01
+9/]q^]+
+^]01Y
+'6&#"
+;]ABdI0
+:ZtBw
+x;>v
+[_0G/
+.,9]A"
+^ jy$=S/
+M@	@-J$F
+????
+M@	@-J$F
+????
+901Y%
+6632
+1$%1
+$9&0b5
+0%%0
+0%%0
+I[}M""
+@?<h
+01Y%
+#"&54632
+0%%0
+0%%0
+>TU;=UT<"
+0L:8IL;9
+0%%0
+0%%0
+CUX@
+01_^]]]]
+??01Y%
+0%%0
+0%%0
+@AJ>F-8I-L
+????
+@AJ>F-8I-L
+????
++01Y%
+6632
+0%&0
+#5%-\6
+0$%0
+"6$.\5
+0%%0
+P7XE2
+(MKK'YzK "
++<%+>'
+@-J*
+@-J*
+++01Y%
+6632
+1$%1
+$9&0b5
+0%%0
+S[}M""
+gPP<g
+@+J&
++_^]
+@+J&
++01Y
+0%%0
+#>88
+o2A&
+9/01
++01Y%
+#"&54>
+3354>
+KnH"k
+1$%1
+&OxR
+5+AH
+%M	L
+2/01
+#"&54>
+3354>
+1$%1
+KnH"k
+1$%1
+&OxR
+NHAHHH;X
+2/??
+99//
+2/01%
+#"&54>
+3354>
+!54>
+LnH"
+KnH"k
+1$%1
+1$%1
+&OxR
+&OxR
+j]]j
+dMHL>H1H88+O
+2/????
+9///
+2/01
+#"&54>
+3354>
+!54>
+KnH"k
+1$%1
+1$%1
+1$%1
+LnH"
+&OxR
+&OxR
+????
+????
+9?01Y!
+&46632
+l	PM(0
+9/+2
+,7+9
+2901
+#"&55
+3354.
+#"&54>
+3267
+e&+-#!Y=.N:!(OvO5
+* (=-
+Ck@HgA
+(" 1
+-D-1F-
+2901
+&&#"
+3267
+-a<D]9
+!@`?.L%	
+6-01Ql<HsR+!!
+#"&54>
+'6&#"
+#8))A3!
+&6F-
+*PsJJkD 
+HuP+(Ga9
++q"m
+????
+4&#"
+6632
+*U/;R3
+/86$"
+""$>U9
+#"&54632
+.A@-/?A-
+5)(34)(
+9q<6)2p)s
+????
+4&#"
+4&#"
+4632
+6632
+#/0"0a5HV
+/86$"
+/86$"
+80.2*
+$=R9
+4&#"
+4632
+6632
+#//#0c6<S2
+/87$"
+80.$=R9
+4632
+#/0"
+#"&55#"&5463354>
+32632
+&&6632
+@<")
++%"'
+("")
+#"&54632
+>TU;=UT<
+L:8IL;9
+#"&54632
+{;PP:<PP9
+-G86EG86
+5((4
+!6))7 
+ 7))6!
+O)8"
+"8)*9#
+) !*
+5++3
+3'&3
+3&'3
+4%2 
+ 2%&4 
+,  ,
+, A1
+@nPhlTl8x|<|(pt,t `d$d
+4l|tdLD44DLdt|l
+JrvNvBz~F~2jn6n
+.v~n^V>..>V^n~v
+&fb"&
+9///////
+9///////
+#"5432'
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432%
+#"5432
+#"5432'
+#"5432
+0440
+0440
+3131$0440
+72222
+3113
+R3113
+2222
+0440
+0440
+0422$
+1441
+2222
+\2222
+3113
+2222
+2220113
+331V113
+{113
+H113
+ 331
+404.113
+99//
+2/01
+#"&'.
+76632
+a^$4&
+"-:'Z
+%BZ5u
+?3?3
+#"&5
+#"&5
+4632
+4632
+(89'
+'89((98'
+'98(
+@@	"
+?33?3
+9=/339
+#"&5
+#"&'
+#"&5
+46332
+"$85&
+'32*
+&66%' q
+#"&5
+#"&5463!2
+'98(
+W$-0  
+/301
+	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	
+ 2021 Microsoft Corporation. All Rights Reserved.
+Hebrew OpenType Layout logic copyright 
+ 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+Calibri is a modern sans serif family with subtle roundings on stems and corners. It features real italics, small caps, and multiple numeral sets. Its proportions allow high impact in tightly set lines of big and small text alike. Calibri's many curves and the new rasteriser team up in bigger sizes to reveal a warm and soft character.Microsoft: Calibri BoldVersion 6.26Calibri-BoldCalibri is a trademark of the Microsoft group of companies.Luc(as) de Groothttps://docs.microsoft.com/typography/abouthttp://lucasfonts.comMicrosoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.
+The following license, based on the MIT license (http://en.wikipedia.org/wiki/MIT_License), applies to the OpenType Layout logic for Biblical Hebrew 
+Layout Logic
+ as jointly developed by Ralph Hancock and John Hudson. 
+Permission is hereby granted, free of charge, to any person obtaining a copy of the OpenType Layout logic for Biblical Hebrew and associated documentation files (the 
+Layout Logic Software
+), to deal in the Layout Logic Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Layout Logic Software, and to permit persons to whom the Layout Logic Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Layout Logic Software.
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+0000000
+````0
+Pp0``
+0000000
+````0
+Pp0``	
+00000000
+`````8
+lll88
+```x8
+ff<<
+````x8
+fff<<
+`````x8
+dlng
+.slng
+.Arab, Armn, Cyrl, Geok, Geor, Grek, Hebr, LatnArab, Armn, Cyrl, Geok, Geor, Grek, Hebr, Latn
+c0a0,
+>010
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+210902182617Z
+220901182617Z0t1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+r?glMr+_
+Q.JPz
+U1tV
+GQGL=
+z'[i
+ hJ*
+nbo/
+~,=U
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+232959+4674750
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+4EN.Z
+v)%,
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+1604
+https://wwww.microsoft.com0
+Q'_![
+3KlQ
+`>pk
+20220209202042.382Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:8A82-E34F-9DDA1%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+211202190516Z
+230228190516Z0
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:8A82-E34F-9DDA1%0#
+Microsoft Time-Stamp Service0
+*  2
+67	U 
+x5<3
+XCsp
+1~)g
+X0V0T
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+`0^0\
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+^Y1j%G5
+2#@G
+ggoF
+T h>
+_`.oI
+.LWM&x
+vw>i
+d)c,
+]}Nh@y
+OUZn
+6W,r
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+`}jR
+q\Q17
+&S|9a
+0\O,
+s=CN
+!]_0t
+\RQ]
+<F5)
+U0S0Q
+0A0?
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>NGdx
+fg:SM
+xSu$W
+as.,k{n?,	x
+J>f;O
+ctH,
+WITd
+!TkjE
+Af=i
+AI~~
+$5g+
+'B=%
+tt[j
+pcSM
+Washington1
+Redmond1
+Microsoft Corporation1%0#
+Microsoft America Operations1&0$
+Thales TSS ESN:8A82-E34F-9DDA1%0#
+Microsoft Time-Stamp Service
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20220210032500Z
+20220211032500Z0w0=
+1/0-0
+1(0&0
+[Pm?
+su=y
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+ f}i
+sbl~0
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+)VF|
+9%NL
+l\KO
+.5BZ5N*
+4Ml6
+endstream
+endobj
+%QDF: ignore_newline
+58 0 obj
+89212
+endobj
+%% Original object ID: 17 0
+59 0 obj
+  /BaseFont /BCDGEE+Calibri-Italic
+  /CIDSystemInfo 70 0 R
+  /CIDToGIDMap /Identity
+  /DW 1000
+  /FontDescriptor 71 0 R
+  /Subtype /CIDFontType2
+  /Type /Font
+  /W 72 0 R
+endobj
+%% Original object ID: 59 0
+60 0 obj
+  /Length1 72124
+  /Length 61 0 R
+stream
+`EBDTQ
+EBLC
+OS/2}{
+`cmap
+cvt 
+fpgm
+$glyf 
+head
+6hhea
+$hmtx
+loca
+maxp
+ meta
+xname%cj
+post
+ prep
+MS  
+@ 	%
+> 	%
+tsrqponmlkjihgfeb_^]\[ZYXUTSRQPONMLKJIHGFEDCBA@?>=<;:98765/.-,(&%$#"
+,E#F` 
+&#HH-,E#F#a 
+&#HH-,E#F`
+&#HH-,E#F#a
+&#HH-,E#F`
+&#HH-,E#F#a
+&#HH-,
+<-, E# 
+ZQX# 
+D#Y 
+QX# 
+MD#Y 
+&QX# 
+D#Y!!-,  E
+E`D-,
+C#Ce
+-, E
+%Ead
+PQXED
+!!Y-, E
+C`D-,
+-, i
+d#da\X
+aY-,
+-,Ee
+,#DE
++#D-,KRXED
+!!Y-,
+<-, 
+-,!!
+b-,!
+@/+Y
+`-,!
+b`#!-,E#E`#E`#E`#vh
+b -,
+%E#E 
+&`bch 
+#DD-, E
+@D E
+!!Y-,E
+0/E#Ea`
+`iD-,KQX
+!!Y-,KQX 
+%EiSXD
+!!Y-,E
+`iD-,
+/ED-,E# E
+`D-,E#E`D-,K#QX
+YDD-,
+ `f X
+aY#XeY
+)#D#
+!!!!!Y-,
+ `f X
+a#XeY
+%#B<
+`#B< X
+!Y!!!!!!!-,
+ `f X
+%#B<
+`#B< X
+) EeD
+!Y!!!!!!!-,
+%  F
+%EH!!!!-,
+%CH!!!-,E# E
+P X#e#Y#h 
+@PX!
+@Y#XeY
+`D-,KS#KQZX E
+!!Y-,KTX E
+!!Y-,KS#KQZX8
+!!Y-,
+!KTX8
+!!Y-,
+!!!!Y-,
+!!!Y-,
+!!!!Y-,
+!!!Y-,# 
+O+Y#
+b+#!#XeY-,
+!T`C-,
+F#F`#Fa# 
+pE`h:-, 
+#SX<
+!Y-,KRX}
+zY-,
+KTB-,
+C`BY
+C`BY
+C`BY
+C`BY
+C`BY
+C`BY
+C`BY
+C`BYYYYYYY
+CTX@
+YYYBBBBB-,E
+h#KQX# E d
+@PX|Yh
+`YD-,
+`#b-,
+	+Y 
+%IcY
+	%ZX
+!Ya# 
+%\XiY
+#2!!-,
+%c` 
+cSX!
+ceQX
+#y!!!!!!!!!!!!-,#
+[+-,
+[+-,
+[+-,
+[+-,
+b`#b-,#J
+N+-,#J
+N+-,#
+J#Ed
+CRX! dY
+PXeY-,#
+J#Ed
+CRX! dY
+PXeY-, 
+;-, 
+%F`a
+#:# 
+#:-,
+%Ic#
+c Xb
+ ca-,
+#:# 
+#:-,# 
+P `Y `` 
+QX!!
+QX! fa
+%PZX 
+TX fae#!
+N+-,
+%F fa 
+p+#ae
+ ` fa
+ ae-,
+E#!Yae
+&cV`+#! 
+N+#a
+N+Y;-,
+	%cV`+
+&cV`+ 
+%I` 
+@RX!
+8YYYYY!!!!!-,
+U}U~
+}K}{}
+|UzU{
+zUyUwUx
+@<Uv
+tUrUs
+FqUoUp
+oUnfmUj
+i8gUh
+gUf8dUe
+c8bUa8`U_8]U^
+]U\8ZU[
+Y8XUW
+V8TUU
+TUS8QUR
+QUO8NUN
+M8KUL
+KUJ8HUI
+HUG8FUE
+TS++K
+UZ[X
+KQZX
+BY+^sus+X@>
+?CF@
+^sus++t^s++^st+st+stt^s^Y
+u^st++++^s+^s+stu^s^s^su^s+^s
+++++++++++++++^s++++++s++++++++++^su^s++^s_sssst++++++^st+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+99//10
+7766332>
+#"&54>
+76632
+EnN$
+!5((@/
+):D"D^:
+14gR6
+%;F!
+@(V(+
+99//
+9/10
+@(V(+
+99//10Y
+l4S(
+l(V(
+X++?+?+
+99//01Y
+&@eLT
+(LnFNqQ6
+CayDf
+s?(Nu
+>$%+%?k
+FP}V,#+#
+I!2'
+CUX@
+(+'(
+@!T(+
+_^]q+9
+99//
+(+'(
+@!T(+
+_^]q+9
+@	l(+'
+l+Q!
+l!T(
+X++?+?+
+9+01Y
+#!".
+663!2
+CUX@
+3210
+910Y
+X++??
+901Y%
+CUX@B,!
+--:/
+ 4Q.-
+,/!:
+????
+/_^]]]
+3310
+4Q.-
+,/!:
+????
+3?10Y
+4Q.-
+,/!:
+X++????
+3?01Y%
+#"&'
+*()"
+CUX@
+-(,(
+++++++++++++
+_^]_]2
+-(,(
+++++++++++++
+3?10Y
+X++???
+3?01Y%
+##".
+&&'#
+66332
+3667
+X++?+?+01Y
+ FtRh
+HsSg
+zFuT/M|
+7GsR-Kz
+	'	'	
+9/99
+9/99
+X++??+
+9/99
+9+01Y
+66332
+4&'&&##
+2M$6W< 
+GbJ3 
+5tocL+
+2I`L>Y
+ 4FKM
+@,Q#U
+3210
+@,Q#U
+910Y
+l,Q#U
+X++???+
+9+901Y
+663!2
+&'OwO5B
+4Q:so
+Y}O%
+E|hQ
+05V?#
+$Ee\":*
+L0Od
+99//
+99//
+99//
++9910Y
+X++?+?+
+99//
++9901Y
+'=T7=\>
+'?QTR?'F
+p=iT:
+0GbBFnK(&>QSP>'>r
+d0WF2
+%?P+,B6029Ka@U
+ % 'CZ3-C6.29KaAO
+CUX@	
+X++??+
+!"&54>
+D@	.
+(5);
+X++?
+99//
+9/10
+l5f)
+l)i(
+X++?+?+
+99//
++901Y
+ 3P=BmVB+
+ <V6=Y?*
+5N`4X
+b5 @`
+b%D>8"
+3Soyz6?`A"
+X++?
+X++?+?+
+99901Y
+#!".
+66332
+ Fl`
+j9aF&
+.Oitz
++X@ 	
+X++?
+99//
+l&)%
+l)d 
+l g(
+X++?+?+
+9+01Y
+#!".
+663!2
+X++??
+2310
+X++??
+901Y7
++X@5
+010.
+.1%:
+X++????
+//////
+.1%:
+X++????
+9?01Y%
+66332
++X@#
+X++???
+/3210
+X++???
+9?01Y%
+##"&'
+66332
+%PSQ&&NOM"
+$&QQQ&'QRR*
+X++?
+X++?+?+01Y
+:[AR{[=$
+:\BOy[=%
+sF/]
+qC2`
+h7\A$<`{}w+8[A":_x~w
+	'	'	
+X++??
+9/99
+X++??+
+9/99
+9+01Y
+66332
+4&'&&##
+!,`\R=$
+(>Q@0D
+m1L^
+,d#h
+X++???
+l,d#h
+X++???+
+9+901Y
+663!2
+!Ba?,6
+(=.eW
+PvQ*
+=:gUA
+X++?
+99//
+lCf-$
+X++?+
+9901Y
+$6G0-J4
+#6GJF7"?q
+[5]I2
+)?Z=6V;
+:UdV97f
+W#H?1
+.;!"1*&(/<N3O
+4D%-?42D]ECwX4
+X++??
+X++??
+!"&54>
+CUX@
+!-?",
+?	"7
+'F!-?	
+9/32}
+'F!-?	
+9910Y
+'F!-?	
+X++??+?+
+9901Y%
+&&#"
+D]r;;W;%
+X+L>4
+/mD5UD1 
+BI7o`J
+!K?)
+4EIJ
+bEH1Rjqn.ag<j
+CUX@
+X++??
+9?+01Y
+"YVG
+?JQ'
+)L9"
+X++??
+/32}
+X++??+?+
+901Y
+#"&77
+&&#"
+	+<H'8F(
+1EZ96P
+@),B+
+'* C;-	
+'<G!$XXR?&'
+c%,:Ua)24(BW/
+X++??
+X++??
+9?+01Y
+#"&#"
+6632
+73)	,
+(@T,
+X++??
+X++??+
+901Y
+76632
+X++??
+X++??+
+76632
+X++??
+X++??
++X@nPhlTl8x|<|(pt,t `d$d
+4l|tdLD44DLdt|l
+JrvNvBz~F~2jn6n
+.v~n^V>..>V^n~v
+&fb"&
+9///////
+9///////
+@8JrvNvBz~F~2jn6n
+.v~n^V>..>V^n~v
+&fb"@&
+9///////
+201Y
+#"5432'
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432%
+#"5432
+#"5432'
+#"5432
+0440
+0440
+3131$0440
+72222
+3113
+R3113
+2222
+0440
+0440
+0422$
+1441
+2222
+\2222
+3113
+2222
+2220113
+331V113
+{113
+H113
+ 331
+404.113
+3/?3/
+9/10
+?+3/?3/+01Y
+#"&'&&#"
+32676632
+9nBEmK(<p
+f<m#
+ B#KpL&UU9]'
+$ FnMi
+GiU*
+?+?+
+9901Y
+'&&54>
+32654.
+#1!L?'9D9''Fa:
+!0B+IL&:C:&&Eb<,I
+:2".'(6L83X@$
+>9"/))7M71S="
+X++?
+99//
+X++?+?+
+9/+01Y
+#!"&7
+663!2
+X++??
+X++??01Y
+#"&7
+6632
+X++????
+X++????
+9?01Y
+#"&7
+#"&'
+#"&7
+66332
+66332
+X++???
+X++???
+99?01Y
+##".
+#"&7
+66332
+6632
+?+?+01Y
+#"&54>
+%=+9V@)
+%=,8V?*
+.runW4
+3vvmT2
++FYZT
+*DWZT
+X++??
+X++??+
+9/+01Y
+#"&7
+66332
+&'~^Z4
+P5J+D/
+<]./4
+X++???
+X++???+
+901Y
+''&&##
+#"&7
+66332
+4&##
+	2<4?
+2;[-E/C*
+Yc"*
+X++??
+X++??+201Y
+#"&7
+#"&54>
+	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h
+ 2021 Microsoft Corporation. All Rights Reserved.
+Hebrew OpenType Layout logic copyright 
+ 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+Calibri is a modern sans serif family with subtle roundings on stems and corners. It features real italics, small caps, and multiple numeral sets. Its proportions allow high impact in tightly set lines of big and small text alike. Calibri's many curves and the new rasteriser team up in bigger sizes to reveal a warm and soft character.Microsoft: Calibri ItalicVersion 6.26Calibri-ItalicCalibri is a trademark of the Microsoft group of companies.Luc(as) de Groothttps://docs.microsoft.com/typography/abouthttp://lucasfonts.comMicrosoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.
+The following license, based on the MIT license (http://en.wikipedia.org/wiki/MIT_License), applies to the OpenType Layout logic for Biblical Hebrew 
+Layout Logic
+ as jointly developed by Ralph Hancock and John Hudson. 
+Permission is hereby granted, free of charge, to any person obtaining a copy of the OpenType Layout logic for Biblical Hebrew and associated documentation files (the 
+Layout Logic Software
+), to deal in the Layout Logic Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Layout Logic Software, and to permit persons to whom the Layout Logic Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Layout Logic Software.
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+|@@x
+@@@@
+BbbR
+pHHH
+xDDx
+8D@ 
+   @@@@
+@@@@
+|@@x
+@@@@
+a@Q@R@
+BbbR
+xDDD
+xDDx
+8D@ 
+   @@@@	
+@@@@
+> @@|@@
+  @@@@@
+ 00PP`P
+I I J 
+<"BBDx@
+<"BDxHD
+     @@
+X`@@
+   @@@@
+> @@|@@
+  @@@@@
+0(P(PPP
+<"BBDx@
+	>!AAB|D
+     @@@
+X`@@
+   @@@@@
+?  @@|@@
+   @@@@@
+0(0(PPPPH
+	>!!AAB|@
+	>!!AB|DB
+     @@@
+X`@@@
+   @@@@@@
+000``````
+<6l<lllll
+8`8`8`l
+0`````
+lp````
+0000```
+dlng
+(slng
+(Armn, Cyrl, Geok, Geor, Grek, Hebr, LatnArmn, Cyrl, Geok, Geor, Grek, Hebr, Latn
+c0a0,
+>010
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+210902182617Z
+220901182617Z0t1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+r?glMr+_
+Q.JPz
+U1tV
+GQGL=
+z'[i
+ hJ*
+nbo/
+~,=U
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+232959+4674750
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+4EN.Z
+v)%,
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+1604
+https://wwww.microsoft.com0
+20220209202015.959Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:897A-E356-17011%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+210114190220Z
+220411190220Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:897A-E356-17011%0#
+Microsoft Time-Stamp Service0
+R3>	
+-BeL
+yP|0
+`2Dk\
+u2	u|
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+PuO'a
+6"cN"
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:897A-E356-17011%0#
+Microsoft Time-Stamp Service
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20220209223714Z
+20220210223714Z0w0=
+1/0-0
+1(0&0
+\>q9#
+[{~)K~
+a6J)L
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+ \16'9vB9Fck8R
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+s9UzKd
+EY"K
+4*o?
+1Nj[
+endstream
+endobj
+%QDF: ignore_newline
+61 0 obj
+72124
+endobj
+%% Original object ID: 63 0
+62 0 obj
+  /Length1 123144
+  /Length 63 0 R
+stream
+`EBDT
+)EBLC
+OS/2
+`cmap
+cvt 
+fpgm~
++glyf
+nhead
+6hhea
+$hmtx/
+j\loca
+maxp.p&D
+ meta
+name
+0tpost
+ prep
+MS  
+? 	 
+> 	 
+tsrqponmlkjihgfedb_^]\[ZYXUTSRQPONMLKJIHGFEDCBA@?>=<;:98765/.-,(&%$#"
+,E#F` 
+&#HH-,E#F#a 
+&#HH-,E#F`
+&#HH-,E#F#a
+&#HH-,E#F`
+&#HH-,E#F#a
+&#HH-,
+<-, E# 
+ZQX# 
+D#Y 
+QX# 
+MD#Y 
+&QX# 
+D#Y!!-,  E
+E`D-,
+C#Ce
+-, E
+%Ead
+PQXED
+!!Y-, E
+C`D-,
+-, i
+d#da\X
+aY-,
+-,Ee
+,#DE
++#D-,KRXED
+!!Y-,
+<-, 
+-,!!
+b-,!
+@/+Y
+`-,!
+b`#!-,E#E`#E`#E`#vh
+b -,
+%E#E 
+&`bch 
+#DD-, E
+@D E
+!!Y-,E
+0/E#Ea`
+`iD-,KQX
+!!Y-,KQX 
+%EiSXD
+!!Y-,E
+`iD-,
+/ED-,E# E
+`D-,E#E`D-,K#QX
+YDD-,
+ `f X
+aY#XeY
+)#D#
+!!!!!Y-,
+ `f X
+a#XeY
+%#B<
+`#B< X
+!Y!!!!!!!-,
+ `f X
+%#B<
+`#B< X
+) EeD
+!Y!!!!!!!-,
+%  F
+%EH!!!!-,
+%CH!!!-,E# E
+P X#e#Y#h 
+@PX!
+@Y#XeY
+`D-,KS#KQZX E
+!!Y-,KTX E
+!!Y-,KS#KQZX8
+!!Y-,
+!KTX8
+!!Y-,
+!!!!Y-,
+!!!Y-,
+!!!!Y-,
+!!!Y-,# 
+O+Y#
+b+#!#XeY-,
+!T`C-,
+F#F`#Fa# 
+pE`h:-, 
+#SX<
+!Y-,KRX}
+zY-,
+KTB-,
+C`BY
+C`BY
+C`BY
+C`BY
+C`BY
+C`BY
+C`BY
+C`BYYYYYYY
+CTX@
+YYYBBBBB-,E
+h#KQX# E d
+@PX|Yh
+`YD-,
+`#b-,
+	+Y 
+%IcY
+	%ZX
+!Ya# 
+%\XiY
+#2!!-,
+%c` 
+cSX!
+ceQX
+#y!!!!!!!!!!!!-,#
+[+-,
+[+-,
+[+-,
+[+-,
+b`#b-, EiD-,#J
+N+-,#J
+N+-,#
+J#Ed
+CRX! dY
+PXeY-,#
+J#Ed
+CRX! dY
+PXeY-, 
+;-, 
+%F`a
+#:# 
+#:-,
+%Ic#
+c Xb
+ ca-,
+#:# 
+#:-,# 
+P `Y `` 
+QX!!
+QX! fa
+%PZX 
+TX fae#!
+N+-,
+%F fa 
+p+#ae
+ ` fa
+ ae-,
+E#!Yae
+&cV`+#! 
+N+#a
+N+Y;-,
+	%cV`+
+&cV`+ 
+%I` 
+@RX!
+8YYYYY!!!!!-,
+U}U~
+}K}{}
+|UzU{
+zUyUwUx
+@<Uv
+tUrUs
+FqUoUp
+oUnfmUj
+i8gUh
+gUf8dUe
+c8bUa8`U_8]U^
+]U\8ZU[
+Y8XUW
+V8TUU
+TUS8QUR
+QUO8NUN
+M8KUL
+KUJ8HUI
+HUG8FUE
+UZ[X
+KQZX
+BY+^sus+X@=
+?CF@
+F+^sus++t^s++^st+st+stt^sY
+u^st++++^s+^s+stu^s^s^su^s+^s
+++++++++++++++^s++++++s++++++++++^su^s++^s_sssst++++++^st++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CTXA
+d+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Y+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+sssssst++++++++++
+-@	l?@
+9/+01Y
+5'&6332>
+54&#"
+5467>
+~#?V3
+S[%<.
+(7B"KlE"
+;\?$
+*;!IV
+M$#&%
+99//]]
++]++++++
+99//
+301Y%
+#"&&67
++++++
++++++10]
+?+?+01Y
+#!"&5
+463!2
+9/]qr
+99//
++++++210
+?+?+
+9/_^]+01Y%
+#!"&5
+463!2
+ '@'`'
+""9/>
++++++
++++++
+9/10
+l""9/
+l9S/
+?+?+
+9/+01Y
+3267
+!"&54>
+v?Ez
+e<{5
+:\bd1
+&.&N
+9/]q
+++++
++++++2
++++++210]
+9/_^]+?01Y%
++++++10]
+??01Y%
++++++10
+?+?01Y%
+#!"&5
+`>p>
+????
++++++2
++++++2
+9=/33
+310]
+????
+3?01Y%
+46332
+h 0$
++++++2
++++++2/310
+9?01Y%
+##".
+&&'#
+46332
+3&&5
+9};H
+4c`]/O
+3@	 
++++++
++++++10
+?+?+01Y
+_)&Z
+++++
++++++210
+9/+01Y
+463!2
+*MimL)
+;W],
+NgF$
+?\yWOj4
++++++2
++++++
+9910
+???+
+9/+901Y%
+463!2
+4&'&&##
+->T;s	
+KsN'#B\9 4-(
+14W?#
+8VoCAgO:
++<N1
+L!;P
+,@+2@
+M$2$2
+99//++]
+++++
++++++
+99//++
++++++10
+99//++01Y
+]AoW;
+3PqJ8]C$2RinhR3;i
+T+WM<
+/D]:6P4
+2SjnjS3
+7P37N;13>TqOQ
+0B%6N<23=Sq
+901Y%
+#"&&67
+&!!%
+?+?+
+9/+901Y
+#!"&5
+463!2
+3EUcA
+(_~V,
+$6#+M9"
+34VE2"
+"DcA'D:-
+K+B.
+ 101
++01Y%
+4I]7l
+l/WJ;
+&?]@FsQ,/VwI=W=(
+?+?+01Y
+##"&5
+463!2
+99//
+?+?+
+9/+01Y%
+#!"&5
+463!2
+9/+01Y
+463!2
+99//
+9/10
+l:f0
+?+?+
+99//+01Y
+3267
+1LmLV
+a47c
+Q.a'
+!PTV)
+{CrU7
+9/+?01Y%
+??01Y%
+99?01Y%
+?+?01Y%
+#!"&5
+--"4
+"5d-
+????
+9910
+????
+9?01Y%
+46332
+99?01Y%
+##"&'
+&&'#
+46332
+L"JKJ"
+R(UUV(
+?+?+01Y
+!JxXXyK# KxXXzL!
+l<@o
+m;Bp
+9/+01Y
+463!2
+4&'&&##
+#D :[@"
+3NeJHb
+???+
+9/+901Y%
+463!2
+$0A4g
+&FgA4VE2
+!0@(
+&4&4
+@	9>
+99//
+l9+>
++01Y
+S3_L5
+-Fa<-L7
++FZ]ZG*4\|H*RC1
+	)=R3'@,
+,GZ^ZG,
+'JtO,
+);&)=/%*3EaA@iJ)
++>.'(2D^
+??+201Y
+?+??01Y
+#E_99^D!
+i83e
+aeD""DcX
+9?01Y%
+&&6632
++X@	/
+7e*e0#
+9910
+7e*e0#
+9??01Y%
+&&6632
+99//
+99?01Y%
+#"&&67
+&&6632
+9?01Y
+&&6632
++X@ 
+44.A*
+9/]q^]
+++++
++^]9/
+++++2910^]
+l44.A"*
+/?+?+
+9/_^]+
+9/+]01Y%
+#"&&55
+3354.
+3267
+QGsQ->t
+1N9=aI1
+BVf4a
+YPAo=
+Z?F%FfALpJ%F4P5
+,U~T
+-?)FSBD
++++++
+++++2910]
+@	l&J
+?+???+
+901Y
+]+IFF'
+(KHH(b
+4V@ >@E'D|C>X7
+&:)n
+SW<c{
++++++
++++210
+H1	,
+++?+
+++01Y%
+<KX/a
+e5Aq
+Y+QD5
+'<U:w
+!@]<9V?+
+X+$+#
+g_Qj
+oG?:O:
+0L@L
+:L:LG?
+2dHG
+99//]]?
+@ o+
+:L:LGd?
+l2dHZG
+?+??
+99?+?3+
+99//_^]]?+01Y
+6632
+&&#"
+&&54>
+KZ{K"	
+0G1>{E
+%9Q9w
+!@]<9U?*
+;KW/a
+e5@l
+i)E6"
+6KI=f
+M^D$XU
+6H)?M0
+X+#+#
+C,BrT1
+VN@Y
+^G?)O)
+0;@;
+););6.
+!SH6
+99//]]?
+99//
+););6S.
+l!SHI6
+???+?3+
+99//_^]]?+?
+9901Y%
+&&#"
+&&54>
+%9Q9u
+!@]<9U?*
+;KW/a
+e5@l
+i)E6"
+6H)8U/
+X+#+#
+C,BrT1
+3=3O3O3w
+w?ROR
+0d@d
+RdRd_W
+J|H_
+@	rM3
+99//]]
+99//
+RdRd_|W
+lJ|Hr_
+lrM3=
+@	l-M
+?+?+?3+2?+?3+
+99//_^]]01Y
+&&54>
+#"&54>
+3354.
+SS}R+
+-B)(B.
+%8Q9w
+!@]<9V?+
+<KX/a
+e5@l
+D+BoR..V
+%Ksb
+J<W7
+2F*8Q2
+X+$+#
++++++
++++++2910]
+??+?+
+9?01Y%
+&&#"
+W(2b
+C}D?X7
+4VA!=@F'
+wMVM
+ESW<b|@D
++X@*/6?6o6
+@!!,
+9/]qr
+++++2
+++++
+9/++10]
+_^]+?+
+9/]+01Y
+'6&#"
+FpQ@dI/
+6Vq@o
+r:<q
+yw=\>"
+'!KxV.
+.Le7
+0H L
+++++
+l0H L
+???+2?+01Y
+#"&54>
+3354>
+#HmJ#B$
+3Q:b
+aJVF
+JG.:
+DH4L$H
+????
+9/10
+laJVFJ
+lJG.D:
+lDH4L$H
+?+????+2?+??+
+901Y
+#"&54>
+3354>
+]+IFE(
+	301
+)JHI'b
+4V@ =AE'C|D>X8
+&:)n
+4R7b
+SW<c{
+|__JYc
+@	J JoJoJ|
+Fpc|
+HvLiLYHEL?
+0J%FS
+9?????
+99//
+9/10
+HvLiLYHEL?
+l:M0
+l0J%F
+?+??+?+
+9?????+22?+?01Y
+#"&54>
+3354>
+4V@ =AE&C|C>X7
+(JHI'b
+W(3b
+]+IEG'
+$HkG,B
+SW<c{
+&:)n	
+5Q7c
+	fpW
+GG"S$
+ZGSHO
+9H)L
+????
+99//3
+9/10
+lZGSH?O
+l?F#
+l9H)L
+????+22?+??+01Y
+#"&54>
+3354>
+!54>
+$HkG,B
+%HkG+C
+	fpc
+	fpWa]
+337e
+MGCe
+hJ_F'
+SG7C
+MH=L-H
+?????
+9/10
+lhJ_FS'
+lSG7MC
+lMH=L-H
+?????+2?+??+
+9901Y%
+#"&54>
+3354>
+6632
+0G1>{E
+	301
+KY{L!
+M^D$XU
+4R7b
+KI=f
+pSS>MW
+>c>c>p+
+FdWp
+zHjL]LMH
+9L%L0
+9????
+99//
+9/10
+FdWzp
+lzHjL]LMH
+9L%L
+?+??+??
+9????+22?+?01Y
+6632
+#"&54>
+3354>
+JY|K!
+.I0>{D
+	-71
+$HkG,B
+KI=f
+M^D$XU
+5Q7c
+	fpW
+60,QHM
+<G ,
+6H&L
+QH<M
+l<G 6,
+6H&L
++2?+?01Y
+#"&54>
+3354>
+$GiD
+PP-x 
+,],l
+C=9xH
+cG\HX
+IF- 9
+CH3L&L
+????
+99//
+9/10
+@#xH
+lcG\HIX
+lIF- C9
+lCH3L&L
+????+22?+??+
+?01Y
+#"&54>
+3354>
+!54>
+$HkG,B
+%FiD
+	fpWa]
+DD/>H
+^XT8
+dGHT
+^HNL>H*L
+99????
+99//
+9/10
+ldGH^T
+l^HNL>H*L
+99????+2?+01Y
+#"&54>
+3354>
+4R7b
+__;k<
+rGkHg
+XF</H
+RHBL5L%H
+??????
+99//
+I~Fr
+lrGkHXg
+lXF</RH
+lRHBL5L%H
+??????+22?+??+??
+9901Y%
+#"&54>
+3354>
+!54>
+$HkG,B
+5Q7c
+	fpW`]
+93/KF
+?G#/
+9H)L
+????
+9/10
+l?G#9/
+l9H)L
+????+2?+?01Y%
+#"&54>
+3354>
+4R7b
++X@	SS0/
+`//<m
+F@<rF
+fG_H[
+LF0#<
+FH6L)L
+?????
+9/10
+@ rFf
+lfG_HL[
+lLF0#F<
+lFH6L)L
+?????+22?+??+?01Y%
+#"&54>
+3354>
+!54>
+$HkG,B
+5Q7c
+	fpWa]
+_M@H3H::
+9/???
+l_M@H3H::
+??+22?+
+9/???+01Y
+#"&54>
+3354>
+!54>
+#GmJ%F
+3Q:b
+%KsN
+1+'yHlHss1f
+UGNHH
+1H!L
+222?
+9/??
+99//
+9/10
+@$yHlHss1Uf
+lUGNH7H
+l1H!L
+?+???+222?+??+
+9/??01Y%
+#"&54>
+3354>
+!54>
+!54>
+#HmJ'D
+$GmJ#B#
+%KsN
+3Q:W^]
+3Q:c
+LG3?
+LX*%@
+<H* B
+9////++
+l<H* 8B
+l8J [
+?+?+
+901Y
+#"&'
+7&&5467&&54>
+4&#"
+4&''
+CpR.4k
+!1 1/2%
+e]0G/
+e[1H/
+vKe>
+$W/NxS,
+!=Y;>pU1%@Y4!>83
+L,=`&%]BMzT-	
+\g 8I(Yf
+R8I2>P
+2910
+R8I2>P
+l-J#K
+@	l#L
+?+?+?+
+3301Y%
+&&#"
+l1cS6
+	-IiD@aB )JGG'c
+W(2b
+_)GEG)
+C}D?X7
+4VA!=@F'%m
+=eLe)9$
+%;)m	
+SW<b|?E
+-J$F
+????
+++++
+++++910]
+@	l-J$F
+????+
+901Y%
+6632
+.I0>|D
+IZ{L!
+M^D$XU
+KI=f
+?#O#o#
+++++
+++++++10]
++01Y%
+#"&54632
+,;:+,;:+
+0:*)9:*)
+??01Y%
+????
+++9/
+++++2
++++++10]]
+????
+9901Y%
+++++10]
+??01Y%
+MP>'
+AJ>F-8I-L
+????
++++++9
+++++
++++++910]
+++++
+lKJA$
+lAJ>F-8I-L
+????
+99?+?+01Y%
+6632
+,D.9sE
+,C.9tD
+I8YD0
+-QKG$WvI
+#9^D$XU
+#9^D$XU
+/A(1D*
++++++
++++++910]
+l-J*
+9?+01Y%
+6632
+.I0>|D
+MZ{L!
+M^D$XU
+wUO=f
++++++/]
++++++10]]]]]]]]]
+?+?+01Y
+n69s
+>jOIiD!
+?jOHjD 
+b94_
+a94^
+++++
+++++2910]
+@	l&J
+?+???+
+901Y
+^(DA@$
+)LMQ-b
+3V@ >@F'DzC>Y7
+	y*>)
+SX<d|
+%@	+J&
+++++910]
+l+J&
+99?+01Y
+05:#
+%A:9
+/K?KOK
+$2$2
+99//]
+/]++
++++++
+99//
+++++++10]
+@%7.
+99//_^]++01Y
+N0WE0
++?V8*D2
+'@PUQ@')R{R$H:)
+	"6I/*@)
+(@RUS@'
+ElJ&
+#6%&4(
+"+>V<5aI,
+'5( "*<T
+mAeA
+uF8\jFK
+RPR`RpR
+.R.RW3
+&jJW
+99//]
+9////
+@4{Hu
+luF8\jFRK
+.R.RWj3
+l&jJFW
+?+?+2?+?3+
+99//_^]+
+99?+?01Y%
+#"&54>
+3354.
+&&54>
+.B)(C0
+	"5J/*@)
+(@RUS@'3^
+N0WE0
++?V8*D2
+'@PUQ@'-Pk>
+TR|T*
+%KsN
+J<W7
+1F)@J
+'5( "*<T:ElJ&
+#6%&4(
+"+>V<:aE&
+H&BoQ..V
++++++2
+?+?+
+?+01Y%
+#"&54>
+3354>
+%KsN
+RAA2d3
+2"2"2
+XNdH^^
+HM,L
+99//
+9//10
+dH^^
+3&XN
+lXHH7
+lHM,L
+?+???+?+22
+9/?01Y
+#"&&#"
+#"&54>
+3354>
+:#HmI"C$
+3Q:b
+%KsN
+5+AH
+%M	L
+2/10
+l;@5H%
+l%M	L
+??+?
++2?01Y
+#"&54>
+3354>
+%KsN
+NHAH;; H0H
+]9/??
+99//
+2/10
+NHAH;;
+l5H%
+?+?+?+22
+_^]9/??01Y%
+#"&54>
+3354>
+%KsN
+%KsN
+&QB5&
+&5BQ
+h^{n{nh
+HtHC'
+<M L
+222???
+99//
+9/////
+2/10
+{n{nh
+HtHC'
+lhHXG
+lXM<+
+l<M L
+???+?+?+222???+
+99//01Y
+#"&54>
+3354>
+!54>
+#HmJ%A"
+3Q:b
+%KsN
+%KsN
+j]]j
+dMHL>H1H++ 808
+]9/????
+9///
+2/10
+ldMHL>H1H++
+?+?+22
+_^]9/????+01Y
+#"&54>
+3354>
+%KsN
+%KsN
+++++++
++++++910]
+@	-I'
+??+?
+99?01Y%
+3267
+MZ{L!
+/H0>{E
+wUN<g
+O_C%XU
+M!(I!
+/+++++
++]10]]]+]]+]]+
+]]]]++++++]+]++
+H(I!
+9?+_^]01Y
+3I%I:
+Hg,w,
+]]++]
++]+?
+/+++/++++10
+]]]]
+]]]]]]]]]+]++
+@3I%I:P,
+H&,6,
+_^]]+_]
++^]?01Y
+&&54>
+10)I#
+9/++10
+]++]++]+]+++
+99?01Y%
+#"&&67
+&&6632
+????
+9?10]+]+
+]]]+]]+
+????
+9?01Y!
+&46632
+0.@.
+9/]q
+2910
+@% %
+??+?+
+9/_^]+
+9/+01Y
+#"&55
+3354.
+#"&54>
+3267
+%]:,K6
+(KlCT
+3&%<-
+;d=D]9
+R(;&
+2,,?$
+,?*.E-
+''$'
+2910
+?+???+
+9901Y
+6632
+!@]<
+2Y3@Z8
+2$%F/(G)#2
+FqP+
+-%/PjD%D5 )6
++01Y
+#"&54>
+326632
++Kh>
+(?!GLKJ+A&
+OsK$
+`a`[
+2910
+??+?+
+99?01Y
+&&#"
+3267
+/a<B[9
+ A_?1R(
+(G($4
+2&$I.
+A/1/Oi<FsO+&&
+S.. 4C#$F5!+5
+?+?+
+9/_^]+
+9/+01Y
+#"&54>
+'6&#"
+)B1&?2!
+"+17 
+'JkDFd?
+ED#4$
+FqN*(F^6
+9/10
+l0n*"
+???++?+01Y
+#"&#"
+#"&5463354>
+67R5
+1+1+1%
+V@(%
+9o(Q
+6q W
+99//
+l9o(
+l6q W
+?+_^]+?+
+]+9?+01Y
+#"&'
+5467&&5467&&54>
+4&#"
+4&''
+!>V5
+#IoKHfA
+">W3
+KD+:#
+&8"(C4
+&5 (A
+9+/H3
++q"m
+????
+l+q"m
+????+
+9901Y
+4&#"
+6632
+78#H)
+.Z0:Q2
+8HG/-
+*($>S9
++01Y
+#"&54632
+"0.!".0!
+????
+????
+9901Y
+??01Y
+9q<6)2p)s
+????
+lAq9 
+l9q<6)2p)s
+????
+99?+?+01Y
+4&#"
+4&#"
+4632
+6632
+45 C(
+25"B)
+2^1IU
+8HG/-
+8HG/-
+B3.7/
+$=R8
+l'q$
+9?+01Y
+4&#"
+4632
+6632
+68#G(
+2`3;R1
+8IG/-
+B3.$=R8
+?+?+01Y
+)OrHOpI"'LuNJnI%
+%=.*=(
+%=.NU
+CpR-'LmGCoQ,)KmI(G5
+4G,*F4
+2910
+?+??
+9?+01Y
+6632
+!?^=
+3a<@Z8
+2$%H-(F($3
+GqO+	
+B10/OkD%D5 +4
+l'q"
+99?+01Y
+4632
+ , ,
+99//
+@%1*
+l 101
+_^]+?
+]+01Y
+32654.
+$?Y5 ;.
+(6%->*>I?) 9Q2
+2++?J?*
+w+B-
+(@5'<+
+?+?+
++?01Y
+#"&5
+#"&5463354>
+32632
+??+??
+9901Y
+3267
+0e3;Q1
+79!H)
+A2.$=R8
+GI/-
+901Y
+&&4>
+6p/=
+????
+6p/=
+????
+9?01Y
+&&4>
+99//
+99?01Y
+#"&&47
+9?01Y
+&&6632
+#"&54632
+Q,;:+,;:+
+:*)9:*)
+#"&54632
+K,98*+98+
+%7+)78*)
++!!-
+01Y%
+01Y%
+#"&54632
+n/><./><.mG/.EG/.
+201Y
++X@nPhlTl8x|<|(pt,t `d$d
+4l|tdLD44DLdt|l
+JrvNvBz~F~2jn6n
+.v~n^V>..>V^n~v
+&fb"&
+9///////
+9///////
+@8JrvNvBz~F~2jn6n
+.v~n^V>..>V^n~v
+&fb"@&
+9///////
+201Y
+#"5432'
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432
+#"5432%
+#"5432
+#"5432'
+#"5432
+0440
+0440
+3131$0440
+72222
+3113
+R3113
+2222
+0440
+0440
+0422$
+1441
+2222
+\2222
+3113
+2222
+2220113
+331V113
+{113
+H113
+ 331
+404.113
+$1$1
+99//
+99//
+99//01Y
+#"&'.
+5432
+32654.
+#"&'&&#"
+:*Ie;<]
+$H;$%BZ6
+>-65
+$J:%
+&5K64P6
+9+01Y
+#"&&67
+?+?+01Y
+##"&5
+46332
+:XD[[AW;
+\7cH(
+?+?+
+9/_^]+01Y
+#!"&5
+463!2
+9/10
+l""/9
+?+?+
+9/01Y
+32675#"&54>
+"9P7:\@"%A[6
+$8;=
+c59g
+X-O>*
+*Jg;CgH$
+9/_^]+?01Y
+??01Y
+?+?01Y
+#!"&5
+????
+????
+9?01Y
+46332
+99?01Y
+##".
+&&'#
+46332
+3&45
+D,4Q(
+632-3C
+?+?+01Y
+#"&54>
+0P;<P2
+0O<<Q2
+<fK*-Me7=gK*-Mf
+9/+01Y
+46332
+~%GbET
+0AG/
+NL&3"
+>cE'
+&8J5%3
+9/]q
+???+
+9/_^]q+901Y
+46332
+4&'&&##
+GR!1 
+"5D)'?0$
+/301
+	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+%c%c%c&
+(>(>(>(>(>(
+)Z)Z)Z)Z)Z)Z)Z)Z)Z)
+*8*8*8*
++~,!,!,!,!,!,!,!,
+-o-o-o-
+1l1x1x1x1x1x1x1x1x1x2
+6T7U7U7U7U7U7
+8i8i8i8i8i8i8i8i8i8i8i8i8
+;V<H<
+CKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCKCyC
+DRDRDRDRD
+EKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKEKF
+K7K7K
+ 2021 Microsoft Corporation. All Rights Reserved.
+Hebrew OpenType Layout logic copyright 
+ 2003 & 2007, Ralph Hancock & John Hudson. This layout logic for Biblical Hebrew is open source software under the MIT License; see embedded license description for details.
+Calibri is a modern sans serif family with subtle roundings on stems and corners. It features real italics, small caps, and multiple numeral sets. Its proportions allow high impact in tightly set lines of big and small text alike. Calibri's many curves and the new rasteriser team up in bigger sizes to reveal a warm and soft character.RegularMicrosoft: Calibri: 2005Version 6.26Calibri is a trademark of the Microsoft group of companies.Luc(as) de Groothttps://docs.microsoft.com/typography/abouthttp://lucasfonts.comMicrosoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.
+The following license, based on the MIT license (http://en.wikipedia.org/wiki/MIT_License), applies to the OpenType Layout logic for Biblical Hebrew 
+Layout Logic
+ as jointly developed by Ralph Hancock and John Hudson. 
+Permission is hereby granted, free of charge, to any person obtaining a copy of the OpenType Layout logic for Biblical Hebrew and associated documentation files (the 
+Layout Logic Software
+), to deal in the Layout Logic Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Layout Logic Software, and to permit persons to whom the Layout Logic Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Layout Logic Software.
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+((D|
+@@@@@
+@@@@0
+PP  
+P  P
+PP  @@
+((D|
+@@@@@
+@@@@0
+PP  
+P  P
+PP  @@	
+		<B
+@@@@@@
+@@@@@0
+PPP  
+D@D@*
+PP PP
+PPP   @@
+0@@@
+@@@@@@
+@@@@@0
+PPP  
+D@D@*
+PP PP
+PPP   @@
+8@@@
+@@@@@@@
+@@@@@@8
+DD((
+ J@J@*
+PP  PP
+DD((
+		<f
+<```
+````````
+```````8	
+g;		
+dlng
+.slng
+.Arab, Armn, Cyrl, Geok, Geor, Grek, Hebr, LatnArab, Armn, Cyrl, Geok, Geor, Grek, Hebr, Latn
+c0a0,
+>010
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+210902182617Z
+220901182617Z0t1
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+r?glMr+_
+Q.JPz
+U1tV
+GQGL=
+z'[i
+ hJ*
+nbo/
+~,=U
+I0G1-0+
+$Microsoft Ireland Operations Limited1
+232959+4674750
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0
+4EN.Z
+v)%,
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100706204017Z
+250706205017Z0~1
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 20100
+dPyg
+v|mE
+KnILk
+UbWr
+jfcx
+!t#2
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+WO){
+bQEg
+% moa
+#Vx"&6
+7Z>@B1
+{%qD
+Washington1
+Redmond1
+Microsoft Corporation1(0&
+Microsoft Code Signing PCA 2010
+1604
+https://wwww.microsoft.com0
+UdAz
+uXY1G
+ZGN-]
+Crj\
+g$Sk
+20220209202010.168Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:897A-E356-17011%0#
+Microsoft Time-Stamp Service
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+210114190220Z
+220411190220Z0
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:897A-E356-17011%0#
+Microsoft Time-Stamp Service0
+R3>	
+-BeL
+yP|0
+`2Dk\
+u2	u|
+C{|F
+mU0V
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0
+PuO'a
+6"cN"
+Washington1
+Redmond1
+Microsoft Corporation1200
+)Microsoft Root Certificate Authority 20100
+100701213655Z
+250701214655Z0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+|hK,_
+>f+[
+|a0Y
+s0W&
+$`2X`F
+BM@Q
+C{|F
+O0M0K
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+N0L0J
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+$VKt
+7}Z?
+oK0D$"<
+~cY%
+z.9Wv
+r~akow
+/T'!
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Operations Puerto Rico1&0$
+Thales TSS ESN:897A-E356-17011%0#
+Microsoft Time-Stamp Service
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 20100
+20220209223714Z
+20220210223714Z0w0=
+1/0-0
+1(0&0
+\>q9#
+[{~)K~
+a6J)L
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+~0|1
+Washington1
+Redmond1
+Microsoft Corporation1&0$
+Microsoft Time-Stamp PCA 2010
+b$to
+3IR$yQ
+a<.V
+ e1o
+endstream
+endobj
+%QDF: ignore_newline
+63 0 obj
+123144
+endobj
+%% Original object ID: 26 0
+64 0 obj
+  /BaseFont /BCDJEE+Calibri
+  /CIDSystemInfo 73 0 R
+  /CIDToGIDMap /Identity
+  /DW 1000
+  /FontDescriptor 74 0 R
+  /Subtype /CIDFontType2
+  /Type /Font
+  /W 75 0 R
+endobj
+%% Original object ID: 49 0
+65 0 obj
+  383.8
+  72.962
+  523.23
+  104.51
+endobj
+%% Original object ID: 53 0
+66 0 obj
+  72
+  344.31
+  170.25
+  402.06
+endobj
+%% Original object ID: 10 0
+67 0 obj
+  /Ordering (Identity)
+  /Registry (Adobe)
+  /Supplement 0
+endobj
+%% Original object ID: 11 0
+68 0 obj
+  /Ascent 750
+  /AvgWidth 536
+  /CapHeight 750
+  /Descent -250
+  /Flags 32
+  /FontBBox [
+    -519
+    -250
+    1263
+    750
+  /FontFile2 57 0 R
+  /FontName /BCDEEE+Calibri-Bold
+  /FontWeight 700
+  /ItalicAngle 0
+  /MaxWidth 1781
+  /StemV 53
+  /Type /FontDescriptor
+  /XHeight 250
+endobj
+%% Original object ID: 56 0
+69 0 obj
+    507
+    226
+  18
+    529
+  44
+    631
+  68
+    874
+  100
+    495
+  258
+    494
+  286
+    503
+  346
+    537
+  349
+    246
+  367
+    246
+  373
+    813
+    537
+  396
+    355
+  410
+    347
+  455
+    474
+endobj
+%% Original object ID: 18 0
+70 0 obj
+  /Ordering (Identity)
+  /Registry (Adobe)
+  /Supplement 0
+endobj
+%% Original object ID: 19 0
+71 0 obj
+  /Ascent 750
+  /AvgWidth 521
+  /CapHeight 750
+  /Descent -250
+  /Flags 32
+  /FontBBox [
+    -725
+    -250
+    1260
+    750
+  /FontFile2 60 0 R
+  /FontName /BCDGEE+Calibri-Italic
+  /FontWeight 400
+  /ItalicAngle -11
+  /MaxWidth 1984
+  /StemV 52
+  /Type /FontDescriptor
+  /XHeight 250
+endobj
+%% Original object ID: 60 0
+72 0 obj
+    507
+    226
+  18
+    522
+  28
+    488
+  47
+    252
+  69
+    645
+  75
+    654
+  87
+    517
+  90
+    543
+  94
+    452
+  100
+    487
+endobj
+%% Original object ID: 27 0
+73 0 obj
+  /Ordering (Identity)
+  /Registry (Adobe)
+  /Supplement 0
+endobj
+%% Original object ID: 28 0
+74 0 obj
+  /Ascent 750
+  /AvgWidth 521
+  /CapHeight 750
+  /Descent -250
+  /Flags 32
+  /FontBBox [
+    -503
+    -250
+    1240
+    750
+  /FontFile2 62 0 R
+  /FontName /BCDJEE+Calibri
+  /FontWeight 400
+  /ItalicAngle 0
+  /MaxWidth 1743
+  /StemV 52
+  /Type /FontDescriptor
+  /XHeight 250
+endobj
+%% Original object ID: 64 0
+75 0 obj
+    507
+    226
+    579
+  24
+    615
+  28
+    488
+  39
+    631
+  44
+    623
+  47
+    252
+  62
+    420
+  68
+    855
+    646
+  75
+    662
+  87
+    517
+  90
+    543
+  94
+    459
+  258
+    479
+  271
+    525
+    423
+  282
+    525
+  286
+    498
+  296
+    305
+  302
+    529
+  336
+    471
+  346
+    525
+  349
+    230
+  364
+    455
+  367
+    230
+  373
+    799
+    525
+  381
+    527
+  393
+    525
+  396
+    349
+  400
+    391
+  410
+    335
+  415
+    557
+  437
+    525
+  448
+    452
+    715
+  454
+    433
+    453
+  842
+    326
+  853
+    250
+  856
+    252
+  859
+    250
+endobj
+xref
+0 76
+0000000000 65535 f 
+0000000052 00000 n 
+0000000253 00000 n 
+0000000706 00000 n 
+0000003903 00000 n 
+0000003951 00000 n 
+0000004051 00000 n 
+0000004208 00000 n 
+0000004291 00000 n 
+0000004903 00000 n 
+0000005142 00000 n 
+0000005224 00000 n 
+0000005642 00000 n 
+0000013415 00000 n 
+0000013465 00000 n 
+0000013556 00000 n 
+0000013647 00000 n 
+0000013833 00000 n 
+0000014066 00000 n 
+0000014254 00000 n 
+0000014489 00000 n 
+0000014717 00000 n 
+0000014898 00000 n 
+0000045367 00000 n 
+0000045417 00000 n 
+0000160294 00000 n 
+0000160346 00000 n 
+0000160465 00000 n 
+0000160584 00000 n 
+0000160703 00000 n 
+0000160822 00000 n 
+0000160941 00000 n 
+0000161060 00000 n 
+0000161179 00000 n 
+0000161298 00000 n 
+0000161417 00000 n 
+0000161553 00000 n 
+0000161673 00000 n 
+0000161810 00000 n 
+0000161966 00000 n 
+0000162024 00000 n 
+0000162680 00000 n 
+0000162729 00000 n 
+0000163064 00000 n 
+0000163119 00000 n 
+0000163177 00000 n 
+0000163705 00000 n 
+0000163754 00000 n 
+0000164093 00000 n 
+0000164148 00000 n 
+0000164478 00000 n 
+0000164533 00000 n 
+0000164591 00000 n 
+0000165796 00000 n 
+0000165846 00000 n 
+0000165945 00000 n 
+0000166043 00000 n 
+0000166263 00000 n 
+0000255571 00000 n 
+0000255622 00000 n 
+0000255844 00000 n 
+0000328064 00000 n 
+0000328115 00000 n 
+0000451356 00000 n 
+0000451408 00000 n 
+0000451623 00000 n 
+0000451707 00000 n 
+0000451788 00000 n 
+0000451898 00000 n 
+0000452233 00000 n 
+0000452613 00000 n 
+0000452723 00000 n 
+0000453062 00000 n 
+0000453341 00000 n 
+0000453451 00000 n 
+0000453781 00000 n 
+trailer <<
+  /Info 2 0 R
+  /Root 1 0 R
+  /Size 76
+  /ID [<d959b8697e498345b85374f49168c741><6936e2d31c76c708d0b073ef917ef59f>]
+start
+999 0 obj
+<< /Type /EmbeddedFile /Length 4003 >>
+stream
+patients.dbux
+kMiP
+y&#Q
+b	Z`?A
+^}7y
+H"0+
+-m:p
+e6-a
+YkqF\
+r~<?
+L$::
+i7Ma
+\9aT
+s`zvLl
+TRf@
+yvLj*Y
+-iV.
+0A~i
+"]iL+
+z3=!A""S
+PPPPPPPPPPPPPPP
+MAAAAAAAAAAAAAA
+zZ:0&
+|SPPPPPPPPPPPPPP
+]ov}
+uwWw
+wr)((~
+fs{*
+Xj/hR
+]o{	
+f\Q1
+hC+2
+={?nk
+mb/V
+HoA&
+IY.xuW
+au	p
+iSK;PS$
+F/dW
+"1fBc9
+`y'b
+.$u/
+#Iw"
+$3HR/
+patients.dbux
+kMiPK
+endstream
+endobj
+xref
+454671
+%%EOF

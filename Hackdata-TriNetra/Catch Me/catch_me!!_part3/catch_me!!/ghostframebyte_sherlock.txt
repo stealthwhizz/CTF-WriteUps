@@ -1,0 +1,5 @@
+Update available! 0.15.0 --> 0.16.0
+https://github.com/sherlock-project/sherlock/releases/tag/v0.16.0
+[*] Checking username ghostframebyte on:
+
+[+] AllMyLinks: https://allmylinks.com/ghostframebyte

@@ -1,0 +1,35 @@
+### Question 4 Analysis: Who is the individual responsible for leaking the image?
+
+**Known Facts:**
+1. Username: ghostframebyte (the leaker from Part 1)
+2. Email: adithya.ixf.09@gmail.com
+3. Context: ACM Lead at Shiv Nadar University
+4. FLAG SHOULD BE IN CAPS
+
+**Digital Footprint Clues from event-assets Repository:**
+
+1. **Primary MAC Address (network.config):** 52:49:50:45:9A:3C
+   - Hex to ASCII: 52=R, 49=I, 50=P, 45=E
+   - Decode: "RIPE"
+
+2. **DNS IP (network.config):** 81.2.82.11
+   - 81 = 'Q' (ASCII)
+   - 82 = 'R' (ASCII)
+   - Partial decode: Q_R_
+
+3. **Email Pattern:** adithya.ixf.09@gmail.com
+   - First name: ADITHYA
+   - Middle/unknown: ixf
+   - Possible year/number: 09
+
+**Possible Answers:**
+
+Based on MAC address decoding:
+- **TriNetra{ADITHYA RIPE}** ← Most likely (MAC encodes "RIPE")
+- TriNetra{ADITHYA} (just first name)
+- TriNetra{ADITHYA IXF} (using email pattern)
+
+**Reasoning:**
+The hint says "Digital footprints are rarely confined to a single platform" and "correlating publicly available information across platforms." The MAC address in the network.config file (event-assets repo) clearly encodes "RIPE" which appears to be the surname.
+
+**Recommended Answer:** TriNetra{ADITHYA RIPE}

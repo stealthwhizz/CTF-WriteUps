@@ -1,0 +1,14 @@
+After years of silence, a signature heartbeat has reappeared in the digital undergrowth. Among old forums and the recently reactivated EVENT-ASSETS repository, we've intercepted whispers of this figure’s return—an operator who moves like a GHOST and believes anonymity is the ultimate weapon. Some in the underground call it a haunting; others simply track the single FRAME left behind in the BYTE stream.
+
+The operator boasted that their new infrastructure is untraceable, claiming that 'location' itself has been erased from their packets. But even a ghost must stand somewhere.
+
+Long before payloads, physical boundaries were drawn to track what crossed unseen lines. The Ghost is hiding in a 'glitch'—a place that shouldn't exist on the map. We’ve intercepted fragments: a shadow caught in a terminal photograph and traces of a configuration hastily cleaned.
+
+Your mission is to bridge the digital and the physical. Follow the trail from the code to the concrete. Determine if the GHOST has truly vanished, or if the FRAME still remembers exactly where the BYTE crossed the line. Locate the year the boundary was set.
+HINT:the place is aprox 12km apart from the anchor point 
+
+----------------------
+
+question_1->Using physical verification determine the city where the photo could plausibly have been taken.
+NOTE:NOTE:#all the question asnwer follow the flag format  TriNetra{…} 
+THE FLAG WHIL SUBMITTING SHOULD BE IN CAPS
